@@ -1,0 +1,5 @@
+CC = gcc
+TARGET = P1330
+
+$(TARGET) : P1330.c
+	$(CC) -o $(TARGET) P1330.c
