@@ -4,21 +4,13 @@
 
 ## 题目描述
 
-有一个邮递员要送东西，邮局在节点1.他总共要送N-1样东西，其目的地分别是2~N。由于这个城市
-
-的交通比较繁忙，因此所有的道路都是单行的，共有M条道路，通过每条道路需要一定的时间。这个
-
-邮递员每次只能带一样东西。求送完这N-1样东西并且最终回到邮局最少需要多少时间。
+有一个邮递员要送东西，邮局在节点1.他总共要送N-1样东西，其目的地分别是2~N。由于这个城市的交通比较繁忙，因此所有的道路都是单行的，共有M条道路，通过每条道路需要一定的时间。这个邮递员每次只能带一样东西。求送完这N-1样东西并且最终回到邮局最少需要多少时间。
 
 ## 输入输出格式
 
 ### 输入格式：
 
-第一行包括两个整数N和M。
-
-第2到第M+1行，每行三个数字U、V、W，表示从A到B有一条需要W时间的道路。 满足
-
-1<=U,V<=N,1<=W<=10000,输入保证任意两点都能互相到达。
+第一行包括两个整数N和M。第2到第M+1行，每行三个数字U、V、W，表示从A到B有一条需要W时间的道路。 满足1<=U,V<=N,1<=W<=10000,输入保证任意两点都能互相到达。
 
 【数据规模】
 
@@ -53,9 +45,7 @@
 
 ## 思路
 
-堆优化dijkstra，计算源到每一个顶点最短路径之和。然后对原图的反向图进行一次dijkstra，计
-
-算反向图中源到每个顶点的最短路径之和。`反向图中源到顶点的最短路径即原图中顶点到源的最短路径`。
+堆优化dijkstra，计算源到每一个顶点最短路径之和。然后对原图的反向图进行一次dijkstra，计算反向图中源到每个顶点的最短路径之和。`反向图中源到顶点的最短路径即原图中顶点到源的最短路径`。
 
 ## 代码
 
@@ -121,15 +111,11 @@ LL Dijkstra::dijkstra(vector<AdjNode>* graph, int n) {
 		if (collected_[minV]) continue;
 		collected_[minV] = true;
 		result += dist_[minV]; //minV的最短路径已确定，加到result中
-		for (vector<AdjNode>::iterator it = graph[minV].begin(); it != graph
-
-[minV].end(); it++) {
+		for (vector<AdjNode>::iterator it = graph[minV].begin(); it != graph[minV].end(); it++) {
 			int adjVertex = it->v;
 			int adjWeight = it->weight;
 			if (!collected_[adjVertex])
-				if (dist_[minV] + adjWeight < dist_[adjVertex] || 
-
-dist_[adjVertex] == NO_VALUE) {
+				if (dist_[minV] + adjWeight < dist_[adjVertex] || dist_[adjVertex] == NO_VALUE) {
 					dist_[adjVertex] = dist_[minV] + adjWeight;
 					q.push(Node(adjVertex, dist_[adjVertex]));
 				}
@@ -160,9 +146,7 @@ int main() {
 	//对反向图进行dijkstra
 	vector<AdjNode> *inverseGraph = new vector<AdjNode>[n];
 	for (int v = 0; v < n; v++) 
-		for (vector<AdjNode>::iterator it = graph[v].begin(); it != graph
-
-[v].end(); it++) {
+		for (vector<AdjNode>::iterator it = graph[v].begin(); it != graph[v].end(); it++) {
 			inverseGraph[it->v].push_back(AdjNode(v, it->weight));
 		}
 	clearGraph(graph, n);
