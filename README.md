@@ -10,6 +10,7 @@
 |P1342|[请柬](https://www.luogu.org/problemnew/show/P1342)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1342/P1342.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1342/Solution.md)|
 |P1347|[排序](https://www.luogu.org/problemnew/show/P1347)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1347/P1347.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1347/Solution.md)|
 |P1462|[通往奥格瑞玛的道路](https://www.luogu.org/problemnew/show/P1462)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1462/P1462.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1462/Solution.md)([Reference](https://www.luogu.org/problemnew/solution/P1462))|
+|P1576|[最小花费](https://www.luogu.org/problemnew/show/P1576)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1576/P1576.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1576/Solution.md)|
 |P1608|[路径统计](https://www.luogu.org/problemnew/show/P1608)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1608/P1608.cpp)|-|
 |P1629|[邮递员送信](https://www.luogu.org/problemnew/show/P1629)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1629/P1629.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1629/Solution.md)|
 |P2169|[正则表达式](https://www.luogu.org/problemnew/show/P2169)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2169/P2169.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2169/Solution.md)|
