@@ -19,6 +19,7 @@
 |P1951|[收费站_NOI导刊2009提高(2)](https://www.luogu.org/problemnew/show/P1951)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1951/P1951.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1951/Solution.md)|
 |P2169|[正则表达式](https://www.luogu.org/problemnew/show/P2169)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2169/P2169.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2169/Solution.md)|
 |P2176[USACO14FEB]|[路障Roadblock](https://www.luogu.org/problemnew/show/P2176)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2176/P2176.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2176/Solution.md)|
+|P2865[USACO06NOV]|[路障Roadblocks](https://www.luogu.org/problemnew/show/P2865)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2865/P2865.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2865/Solution.md)|
 |P3366|[[模板]最小生成树](https://www.luogu.org/problemnew/show/P3366)|[C++](https://www.luogu.org/problemnew/show/P3366)|-|
 |P3393|[P3393 逃离僵尸岛](https://www.luogu.org/problemnew/show/P3393)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3393/P3393.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3393/Solution.md)|
 |P4568|[P4568 [JLOI2011]飞行路线](https://www.luogu.org/problemnew/show/P4568)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P4568/P4568.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P4568/Solution.md)|
