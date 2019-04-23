@@ -95,24 +95,24 @@ public:
         @param nv 顶点数
         @param src 源
         @param des 终点
-        @param num_edge 数组，存储每个顶点的边数（可能有重边）
+        @param num 数组，存储每个顶点的邻接点数（graph可能有重边）
         @param k 扩展邻接点时，若邻接点不是src和des，且其邻接点数小于k，则不扩展该邻接点
         @param p_second_shortest_dist 指针，传出次短路长度
         @return bool 若次短路存在则返回true
     */
-    bool getSecondShortestPath(vector<AdjNode> *graph, int nv, int src, int des, int *num_edge, int k, int *p_second_shortest_dist);
+    bool getSecondShortestPath(vector<AdjNode> *graph, int nv, int src, int des, int *num, int k, int *p_second_shortest_dist);
 private:
     /* Dijkstra计算最短路。
         @param graph 图
         @param nv 顶点数
         @param src 源
         @param des 终点
-        @param num_edge 数组，存储每个顶点的边数（可能有重边）
+        @param num 数组，存储每个顶点的邻接点数（graph可能有重边）
         @param k 扩展邻接点时，若邻接点不是src和des，且其邻接点数小于k，则不扩展该邻接点
         @param dist 数组，传出src到每一个顶点的最短距离
         @return bool 若src可达des则返回true
     */
-    bool dijkstra(vector<AdjNode> *graph, int nv, int src, int des, int *num_edge, int k, int *dist);
+    bool dijkstra(vector<AdjNode> *graph, int nv, int src, int des, int *num, int k, int *dist);
 
     /* A*计算次短路。
         @param graph 图
@@ -120,12 +120,12 @@ private:
         @param nv 顶点数
         @param src 源
         @param des 终点
-        @param num_edge 数组，存储每个顶点的边数（可能有重边）
+        @param num 数组，存储每个顶点的邻接点数（graph可能有重边）
         @param k 扩展邻接点时，若邻接点不是src和des，且其邻接点数小于k，则不扩展该邻接点
         @param p_second_shortest_dist 指针，传出次短路长度
         @return bool 若次短路存在则返回true
     */
-    bool astar(vector<AdjNode> *graph, int *h, int nv, int src, int des, int *num_edge, int k, int *p_second_shortest_dist);
+    bool astar(vector<AdjNode> *graph, int *h, int nv, int src, int des, int *num, int k, int *p_second_shortest_dist);
 
     //Dijkstra优先队列使用的结构体
     struct PriorityNode {
@@ -149,18 +149,18 @@ private:
     };
 };
 
-bool SecondShortestPath::getSecondShortestPath(vector<AdjNode>* graph, int nv, int src, int des, int *num_edge, int k, int *p_second_shortest_dist) {
+bool SecondShortestPath::getSecondShortestPath(vector<AdjNode>* graph, int nv, int src, int des, int *num, int k, int *p_second_shortest_dist) {
     int *h = new int[nv];
     bool result;
-    if (dijkstra(graph, nv, des, src, num_edge, k, h)) { //反向计算最短路，作为A*的估值函数
-        result = astar(graph, h, nv, src, des, num_edge, k, p_second_shortest_dist); //A*
+    if (dijkstra(graph, nv, des, src, num, k, h)) { //反向计算最短路，作为A*的估值函数
+        result = astar(graph, h, nv, src, des, num, k, p_second_shortest_dist); //A*
     }
     else result = false;
     free(h);
     return result;
 }
 
-bool SecondShortestPath::dijkstra(vector<AdjNode>* graph, int nv, int src, int des, int *num_edge, int k, int * dist) {
+bool SecondShortestPath::dijkstra(vector<AdjNode>* graph, int nv, int src, int des, int *num, int k, int * dist) {
     fill(dist, dist + nv, NO_VALUE);
     bool *collected = new bool[nv];
     fill(collected, collected + nv, false);
@@ -176,7 +176,7 @@ bool SecondShortestPath::dijkstra(vector<AdjNode>* graph, int nv, int src, int d
         collected[top_v] = true;
         for (auto it = graph[top_v].begin(); it != graph[top_v].end(); it++) { //遍历邻接点
             adj_v = it->adj_v;
-            if ((num_edge[adj_v] >= k || adj_v == des) && !collected[adj_v]) { //邻接点的邻接点数目需要>=k，或者邻接点就是des
+            if ((num[adj_v] >= k || adj_v == des) && !collected[adj_v]) { //邻接点的邻接点数目需要>=k，或者邻接点就是des
                 tmp_dist = dist[top_v] + (int)it->adj_weight;
                 if (tmp_dist < dist[adj_v] || dist[adj_v] == NO_VALUE) {
                     dist[adj_v] = tmp_dist;
@@ -189,7 +189,7 @@ bool SecondShortestPath::dijkstra(vector<AdjNode>* graph, int nv, int src, int d
     return dist[des] != NO_VALUE;
 }
 
-bool SecondShortestPath::astar(vector<AdjNode>* graph, int *h, int nv, int src, int des, int *num_edge, int k, int * p_second_shortest_dist) {
+bool SecondShortestPath::astar(vector<AdjNode>* graph, int *h, int nv, int src, int des, int *num, int k, int * p_second_shortest_dist) {
     priority_queue<AstarNode, vector<AstarNode>, cmp> q;
     q.push(AstarNode(src, 0, h[src]));
     Vertex top_v, adj_v;
@@ -208,7 +208,7 @@ bool SecondShortestPath::astar(vector<AdjNode>* graph, int *h, int nv, int src, 
         }
         for (auto it = graph[top_v].begin(); it != graph[top_v].end(); it++) { //遍历邻接点
             adj_v = it->adj_v;
-            if (num_edge[adj_v] >= k || adj_v == src || adj_v == des) { //邻接点需要>=k或者邻接点就是src或者des
+            if (num[adj_v] >= k || adj_v == src || adj_v == des) { //邻接点需要>=k或者邻接点就是src或者des
                 tmp_g = top_g + (int)it->adj_weight;
                 q.push(AstarNode(adj_v, tmp_g, tmp_g + h[adj_v]));
             }
@@ -221,8 +221,8 @@ int main() {
     int n, m, k;
     scanf("%d %d %d", &n, &m, &k);
     vector<AdjNode> *graph = new vector<AdjNode>[n];
-    int *num_edge = new int[n];
-    fill(num_edge, num_edge + n, 0);
+    int *num = new int[n];
+    fill(num, num + n, 0);
     for (int i = 0, u, v, w; i < m; i++) {
         scanf("%d %d %d", &u, &v, &w);
         u--; v--;
@@ -235,21 +235,22 @@ int main() {
         for (auto it = graph[i].begin(); it != graph[i].end(); it++) {
             if (appeared[it->adj_v]) continue;
             else {
-                num_edge[i]++;
+                num[i]++;
                 appeared[it->adj_v] = true;
             }
         }
     }
     SecondShortestPath ssp;
     int second_shortest_dist;
-    if (ssp.getSecondShortestPath(graph, n, 0, n - 1, num_edge, k, &second_shortest_dist)) {
+    if (ssp.getSecondShortestPath(graph, n, 0, n - 1, num, k, &second_shortest_dist)) {
         printf("%d", second_shortest_dist);
     }
     else printf("-1");
-    free(num_edge);
+    free(num);
     for (int i = 0; i < n; i++)
         vector<AdjNode>().swap(graph[i]);	
     return 0;
 }
+
 
 ```
