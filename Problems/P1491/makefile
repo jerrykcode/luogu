@@ -1,0 +1,5 @@
+CC = g++
+TARGET = P1491
+
+$(TARGET) : P1491
+	$(CC) -o $(TARGET) P1491.cpp
