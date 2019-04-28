@@ -22,6 +22,7 @@
 |P2176[USACO14FEB]|[路障Roadblock](https://www.luogu.org/problemnew/show/P2176)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2176/P2176.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2176/Solution.md)|
 |P2829|[大逃离](https://www.luogu.org/problemnew/show/P2829)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2829/P2829.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2829/Solution.md)|
 |P2865[USACO06NOV]|[路障Roadblocks](https://www.luogu.org/problemnew/show/P2865)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2865/P2865.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2865/Solution.md)|
+|P2939[USACO09FEB]|[改造路Revamping Trails](https://www.luogu.org/problemnew/show/P2939)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2939/P2939.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2939/Solution.md)|
 |P3366|[[模板]最小生成树](https://www.luogu.org/problemnew/show/P3366)|[C++](https://www.luogu.org/problemnew/show/P3366)|-|
 |P3393|[P3393 逃离僵尸岛](https://www.luogu.org/problemnew/show/P3393)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3393/P3393.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3393/Solution.md)|
 |P4568|[P4568 [JLOI2011]飞行路线](https://www.luogu.org/problemnew/show/P4568)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P4568/P4568.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P4568/Solution.md)|
