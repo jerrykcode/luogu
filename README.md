@@ -26,5 +26,6 @@
 |P2939[USACO09FEB]|[改造路Revamping Trails](https://www.luogu.org/problemnew/show/P2939)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2939/P2939.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2939/Solution.md)|
 |P3366|[[模板]最小生成树](https://www.luogu.org/problemnew/show/P3366)|[C++](https://www.luogu.org/problemnew/show/P3366)|-|
 |P3393|[P3393 逃离僵尸岛](https://www.luogu.org/problemnew/show/P3393)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3393/P3393.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3393/Solution.md)|
+|P3946|[ことりのおやつ(小鸟的点心)](https://www.luogu.org/problemnew/show/P3946)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3946/P3946.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3946/Solution.md)|
 |P4568|[P4568 [JLOI2011]飞行路线](https://www.luogu.org/problemnew/show/P4568)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P4568/P4568.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P4568/Solution.md)|
 |P5018|[对称二叉树](https://www.luogu.org/problemnew/show/P5018)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P5018/P5018.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P5018/Solution.md)|
