@@ -10,6 +10,7 @@
 |P1186|[玛丽卡](https://www.luogu.org/problemnew/show/P1186)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1186/P1186.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1186/Solution.md)|
 |P1330|[封锁阳光大学](https://www.luogu.org/problemnew/show/P1330)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1330/C%2B%2B/P1330.cpp)/[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1330/C/P1330.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1330/Solution.md)|
 |P1342|[请柬](https://www.luogu.org/problemnew/show/P1342)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1342/P1342.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1342/Solution.md)|
+|P1343|[地震逃生](https://www.luogu.org/problemnew/show/P1343)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1343/P1343.cpp)|-|
 |P1347|[排序](https://www.luogu.org/problemnew/show/P1347)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1347/P1347.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1347/Solution.md)|
 |P1462|[通往奥格瑞玛的道路](https://www.luogu.org/problemnew/show/P1462)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1462/P1462.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1462/Solution.md)([Reference](https://www.luogu.org/problemnew/solution/P1462))|
 |P1491|[集合位置](https://www.luogu.org/problemnew/show/P1491)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1491/P1491.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1491/Solution.md)|
@@ -18,6 +19,7 @@
 |P1576|[最小花费](https://www.luogu.org/problemnew/show/P1576)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1576/P1576.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1576/Solution.md)|
 |P1608|[路径统计](https://www.luogu.org/problemnew/show/P1608)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1608/P1608.cpp)|-|
 |P1629|[邮递员送信](https://www.luogu.org/problemnew/show/P1629)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1629/P1629.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1629/Solution.md)|
+|P1726|[上白泽慧音](https://www.luogu.org/problemnew/show/P1726)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1726/P1726.cpp)|-|
 |P1951|[收费站_NOI导刊2009提高(2)](https://www.luogu.org/problemnew/show/P1951)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1951/P1951.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1951/Solution.md)|
 |P2169|[正则表达式](https://www.luogu.org/problemnew/show/P2169)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2169/P2169.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2169/Solution.md)|
 |P2176[USACO14FEB]|[路障Roadblock](https://www.luogu.org/problemnew/show/P2176)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2176/P2176.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2176/Solution.md)|
