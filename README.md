@@ -13,6 +13,7 @@
 |P1347|[排序](https://www.luogu.org/problemnew/show/P1347)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1347/P1347.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1347/Solution.md)|
 |P1462|[通往奥格瑞玛的道路](https://www.luogu.org/problemnew/show/P1462)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1462/P1462.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1462/Solution.md)([Reference](https://www.luogu.org/problemnew/solution/P1462))|
 |P1491|[集合位置](https://www.luogu.org/problemnew/show/P1491)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1491/P1491.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1491/Solution.md)|
+|P1529|[回家 Bessie Come Home](https://www.luogu.org/problemnew/show/P1529)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1529/P1529.c)|-|
 |P1550[USACO08OCT]|[打井Watering Hole](https://www.luogu.org/problemnew/show/P1550)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1550/P1550.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1550/Solution.md)|
 |P1576|[最小花费](https://www.luogu.org/problemnew/show/P1576)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1576/P1576.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1576/Solution.md)|
 |P1608|[路径统计](https://www.luogu.org/problemnew/show/P1608)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1608/P1608.cpp)|-|
