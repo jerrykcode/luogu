@@ -38,4 +38,5 @@
 |P4480|[抓住czx](https://www.luogu.org/problemnew/show/P4480)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P4480/P4480.cpp)|-|
 |P4554|[小明的游戏](https://www.luogu.org/problemnew/show/P4554)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P4554/P4554.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P4554/Solution.md)|
 |P4568|[P4568 [JLOI2011]飞行路线](https://www.luogu.org/problemnew/show/P4568)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P4568/P4568.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P4568/Solution.md)|
+|P4943|[密室](https://www.luogu.org/problemnew/show/P4943)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P4943/P4943.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P4943/Solution.md)|
 |P5018|[对称二叉树](https://www.luogu.org/problemnew/show/P5018)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P5018/P5018.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P5018/Solution.md)|
