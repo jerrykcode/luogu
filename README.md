@@ -34,6 +34,7 @@
 |P3376|[[模板]网络最大流](https://www.luogu.org/problemnew/show/P3376)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3376/P3376.cpp)|-|
 |P3386|[[模板]二分图匹配](https://www.luogu.org/problemnew/show/P3386)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3386/P3386.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3386/Solution.md)|
 |P3393|[P3393 逃离僵尸岛](https://www.luogu.org/problemnew/show/P3393)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3393/P3393.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3393/Solution.md)|
+|P3871|[[TJOI2010]中位数](https://www.luogu.org/problemnew/show/P3871)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3871/P3871.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3871/Solution.md)|
 |P3946|[ことりのおやつ(小鸟的点心)](https://www.luogu.org/problemnew/show/P3946)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3946/P3946.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3946/Solution.md)|
 |P4480|[抓住czx](https://www.luogu.org/problemnew/show/P4480)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P4480/P4480.cpp)|-|
 |P4554|[小明的游戏](https://www.luogu.org/problemnew/show/P4554)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P4554/P4554.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P4554/Solution.md)|
