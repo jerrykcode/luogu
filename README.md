@@ -33,6 +33,7 @@
 |P2865[USACO06NOV]|[路障Roadblocks](https://www.luogu.org/problemnew/show/P2865)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2865/P2865.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2865/Solution.md)|
 |P2939[USACO09FEB]|[改造路Revamping Trails](https://www.luogu.org/problemnew/show/P2939)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2939/P2939.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2939/Solution.md)|
 |P3366|[[模板]最小生成树](https://www.luogu.org/problemnew/show/P3366)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3366/P3366.cpp)|-|
+|P3369|[[模板]普通平衡树](https://www.luogu.org/problemnew/show/P3369)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3369/P3369.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3369/Solution.md)|
 |P3376|[[模板]网络最大流](https://www.luogu.org/problemnew/show/P3376)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3376/P3376.cpp)|-|
 |P3386|[[模板]二分图匹配](https://www.luogu.org/problemnew/show/P3386)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3386/P3386.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3386/Solution.md)|
 |P3393|[P3393 逃离僵尸岛](https://www.luogu.org/problemnew/show/P3393)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3393/P3393.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3393/Solution.md)|
