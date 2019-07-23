@@ -7,6 +7,7 @@
 |P1027|[Car的旅行路线](https://www.luogu.org/problemnew/show/P1027)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1027/P1027.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1027/Solution.md)|
 |P1048|[采药](https://www.luogu.org/problemnew/show/P1048)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1048/P1048.c)|-|
 |P1060|[开心的金明](https://www.luogu.org/problemnew/show/P1060)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1060/P1060.c)|-|
+|P1110|[[ZJOI2007]报表统计](https://www.luogu.org/problemnew/show/P1110)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1110/P1110.cpp)|[Reference](https://www.luogu.org/problemnew/solution/P1110)|
 |P1186|[玛丽卡](https://www.luogu.org/problemnew/show/P1186)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1186/P1186.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1186/Solution.md)|
 |P1330|[封锁阳光大学](https://www.luogu.org/problemnew/show/P1330)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1330/C%2B%2B/P1330.cpp)/[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1330/C/P1330.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1330/Solution.md)|
 |P1342|[请柬](https://www.luogu.org/problemnew/show/P1342)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1342/P1342.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1342/Solution.md)|
