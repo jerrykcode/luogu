@@ -26,6 +26,7 @@
 |P1951|[收费站_NOI导刊2009提高(2)](https://www.luogu.org/problemnew/show/P1951)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1951/P1951.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1951/Solution.md)|
 |P1983|[车站分级](https://www.luogu.org/problemnew/show/P1983)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1983/P1983.cpp)|-|
 |P2073|[送花](https://www.luogu.org/problemnew/show/P2073)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2073/P2073.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2073/Solution.md)|
+|P2161|[[SHOI2009]会场预约](https://www.luogu.org/problemnew/show/P2161)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2161/P2161.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2161/Solution.md)|
 |P2169|[正则表达式](https://www.luogu.org/problemnew/show/P2169)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2169/P2169.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2169/Solution.md)|
 |P2176[USACO14FEB]|[路障Roadblock](https://www.luogu.org/problemnew/show/P2176)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2176/P2176.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2176/Solution.md)|
 |P2683|[小岛](https://www.luogu.org/problemnew/show/P2683)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2683/P2683.cpp)|-|

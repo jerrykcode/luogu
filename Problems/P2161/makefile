@@ -1,0 +1,5 @@
+CC = gcc
+TARGET = P2161
+
+$(TARGET) : P2161.c
+	$(CC) -o $(TARGET) P2161.c
