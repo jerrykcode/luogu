@@ -30,6 +30,7 @@
 |P2169|[正则表达式](https://www.luogu.org/problemnew/show/P2169)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2169/P2169.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2169/Solution.md)|
 |P2176[USACO14FEB]|[路障Roadblock](https://www.luogu.org/problemnew/show/P2176)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2176/P2176.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2176/Solution.md)|
 |P2343|[ 宝石管理系统](https://www.luogu.org/problemnew/show/P2343)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2343/P2343.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2343/Solution.md)|
+|P2417[课程](https://www.luogu.org/problemnew/show/P2417)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2417/P2417.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2417/Solution.md)|
 |P2683|[小岛](https://www.luogu.org/problemnew/show/P2683)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2683/P2683.cpp)|-|
 |P2756|[飞行员配对方案问题](https://www.luogu.org/problemnew/show/P2756)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2756/P2756.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2756/Solution.md)|
 |P2829|[大逃离](https://www.luogu.org/problemnew/show/P2829)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2829/P2829.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2829/Solution.md)|
