@@ -25,6 +25,7 @@
 |P1841|[[JSOI2007]重要的城市](https://www.luogu.org/problemnew/show/P1841)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1841/P1841.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1841/Solution.md)|
 |P1951|[收费站_NOI导刊2009提高(2)](https://www.luogu.org/problemnew/show/P1951)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1951/P1951.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1951/Solution.md)|
 |P1983|[车站分级](https://www.luogu.org/problemnew/show/P1983)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1983/P1983.cpp)|-|
+|P2055|[[ZJOI2009]假期的宿舍](https://www.luogu.org/problemnew/show/P2055)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2055/P2055.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2055/Solution.md)|
 |P2073|[送花](https://www.luogu.org/problemnew/show/P2073)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2073/P2073.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2073/Solution.md)|
 |P2161|[[SHOI2009]会场预约](https://www.luogu.org/problemnew/show/P2161)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2161/P2161.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2161/Solution.md)|
 |P2169|[正则表达式](https://www.luogu.org/problemnew/show/P2169)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2169/P2169.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2169/Solution.md)|
