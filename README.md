@@ -24,6 +24,7 @@
 |P1629|[邮递员送信](https://www.luogu.org/problemnew/show/P1629)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1629/P1629.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1629/Solution.md)|
 |P1726|[上白泽慧音](https://www.luogu.org/problemnew/show/P1726)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1726/P1726.cpp)|-|
 |P1841|[[JSOI2007]重要的城市](https://www.luogu.org/problemnew/show/P1841)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1841/P1841.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1841/Solution.md)|
+|P1894|[[USACO4.2]完美的牛栏The Perfect Stall](https://www.luogu.org/problemnew/show/P1894)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1894/P1894.cpp)|-|
 |P1951|[收费站_NOI导刊2009提高(2)](https://www.luogu.org/problemnew/show/P1951)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1951/P1951.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1951/Solution.md)|
 |P1983|[车站分级](https://www.luogu.org/problemnew/show/P1983)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1983/P1983.cpp)|-|
 |P2055|[[ZJOI2009]假期的宿舍](https://www.luogu.org/problemnew/show/P2055)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2055/P2055.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2055/Solution.md)|
