@@ -33,6 +33,7 @@
 |P2161|[[SHOI2009]会场预约](https://www.luogu.org/problemnew/show/P2161)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2161/P2161.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2161/Solution.md)|
 |P2169|[正则表达式](https://www.luogu.org/problemnew/show/P2169)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2169/P2169.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2169/Solution.md)|
 |P2176[USACO14FEB]|[路障Roadblock](https://www.luogu.org/problemnew/show/P2176)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2176/P2176.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2176/Solution.md)|
+|P2319|[[HNOI2006]超级英雄](https://www.luogu.org/problemnew/show/P2319)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2319/P2319.cpp)|[Notice!!!](https://www.luogu.org/blog/xfarawayx/solution-p2319)|
 |P2343|[ 宝石管理系统](https://www.luogu.org/problemnew/show/P2343)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2343/P2343.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2343/Solution.md)|
 |P2417|[课程](https://www.luogu.org/problemnew/show/P2417)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2417/P2417.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2417/Solution.md)|
 |P2683|[小岛](https://www.luogu.org/problemnew/show/P2683)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2683/P2683.cpp)|-|
