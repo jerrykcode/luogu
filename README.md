@@ -38,6 +38,7 @@
 |P2417|[课程](https://www.luogu.org/problemnew/show/P2417)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2417/P2417.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2417/Solution.md)|
 |P2683|[小岛](https://www.luogu.org/problemnew/show/P2683)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2683/P2683.cpp)|-|
 |P2756|[飞行员配对方案问题](https://www.luogu.org/problemnew/show/P2756)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2756/P2756.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2756/Solution.md)|
+|P2825|[[HEOI2016/TJOI2016]游戏](https://www.luogu.org/problemnew/show/P2825)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2825/P2825.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2825/Solution.md)|
 |P2829|[大逃离](https://www.luogu.org/problemnew/show/P2829)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2829/P2829.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2829/Solution.md)|
 |P2865[USACO06NOV]|[路障Roadblocks](https://www.luogu.org/problemnew/show/P2865)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2865/P2865.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2865/Solution.md)|
 |P2939[USACO09FEB]|[改造路Revamping Trails](https://www.luogu.org/problemnew/show/P2939)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2939/P2939.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2939/Solution.md)|
