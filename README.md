@@ -45,6 +45,7 @@
 |P3003|[[USACO10DEC]苹果交货Apple Delivery](https://www.luogu.org/problemnew/show/P3003)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3003/P3003.cpp)|-|
 |P3366|[[模板]最小生成树](https://www.luogu.org/problemnew/show/P3366)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3366/P3366.cpp)|-|
 |P3369|[[模板]普通平衡树](https://www.luogu.org/problemnew/show/P3369)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3369/P3369.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3369/Solution.md)|
+|P3374|[[模板]树状数组 1](https://www.luogu.org/problemnew/show/P3374)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3374/P3374.c)|-|
 |P3376|[[模板]网络最大流](https://www.luogu.org/problemnew/show/P3376)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3376/P3376.cpp)|-|
 |P3386|[[模板]二分图匹配](https://www.luogu.org/problemnew/show/P3386)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3386/P3386.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3386/Solution.md)|
 |P3393|[P3393 逃离僵尸岛](https://www.luogu.org/problemnew/show/P3393)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3393/P3393.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3393/Solution.md)|
