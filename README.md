@@ -44,6 +44,7 @@
 |P2939[USACO09FEB]|[改造路Revamping Trails](https://www.luogu.org/problemnew/show/P2939)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2939/P2939.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2939/Solution.md)|
 |P3003|[[USACO10DEC]苹果交货Apple Delivery](https://www.luogu.org/problemnew/show/P3003)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3003/P3003.cpp)|-|
 |P3366|[[模板]最小生成树](https://www.luogu.org/problemnew/show/P3366)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3366/P3366.cpp)|-|
+|P3368|[[模板]树状数组 2](https://www.luogu.org/problemnew/show/P3368)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3368/P3368.c)|[Reference](https://www.cnblogs.com/dilthey/p/9366491.html)|
 |P3369|[[模板]普通平衡树](https://www.luogu.org/problemnew/show/P3369)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3369/P3369.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3369/Solution.md)|
 |P3374|[[模板]树状数组 1](https://www.luogu.org/problemnew/show/P3374)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3374/P3374.c)|-|
 |P3376|[[模板]网络最大流](https://www.luogu.org/problemnew/show/P3376)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3376/P3376.cpp)|-|
