@@ -5,7 +5,7 @@ ifeq ($(OS), Windows_NT)
 else
 	UNAME_S := $(shell uname -s)
 	ifeq ($(UNAME_S), Linux)
-		TAREGT = P1168
+		TARGET = P1168
 		EXECUTE = ./$(TARGET)
 		CLEAN = rm $(TARGET)
 	endif
