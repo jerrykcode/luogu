@@ -9,6 +9,7 @@
 |P1060|[开心的金明](https://www.luogu.org/problemnew/show/P1060)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1060/P1060.c)|-|
 |P1110|[[ZJOI2007]报表统计](https://www.luogu.org/problemnew/show/P1110)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1110/P1110.cpp)|[Reference](https://www.luogu.org/problemnew/solution/P1110)|
 |P1129|[[ZJOI2007]矩阵游戏](https://www.luogu.org/problemnew/show/P1129)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1129/P1129.cpp)|[Reference](https://www.luogu.org/problemnew/solution/P1129)|
+|P1168|[中位数](https://www.luogu.org/problemnew/show/P1168)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1168/P1168.cc)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1168/Solution.md)|
 |P1186|[玛丽卡](https://www.luogu.org/problemnew/show/P1186)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1186/P1186.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1186/Solution.md)|
 |P1330|[封锁阳光大学](https://www.luogu.org/problemnew/show/P1330)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1330/C%2B%2B/P1330.cpp)/[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1330/C/P1330.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1330/Solution.md)|
 |P1342|[请柬](https://www.luogu.org/problemnew/show/P1342)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1342/P1342.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1342/Solution.md)|
