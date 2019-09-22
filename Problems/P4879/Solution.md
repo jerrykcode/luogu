@@ -121,9 +121,9 @@ has和bit不变。
 ### D x:
 首先需要找到第x个有女生的城市。  
 二分 + 树状数组区间查询:  
-从[1, maxcity]开始二分。对于二分的mid，若get_sum[mid] < x，则[0, mid]区间内的女生不够x个，则向右继续二分。若get_sum[mid] > x，则[0, mid]区间内的女生多于x个了，继续向左二分。
-当get_sum[mid] == x时，[0, mid]区间内的女生正好有x个，注意此时若has[mid]为TRUE，即mid城市有女生，那么mid就是第x个有女生的城市。但若has[mid]为FALSE，
-则第x个有女生的城市在mid之前，只是第x个有女生的城市到mid之间没有城市有女生，所以[0, mid]内仍然是x个女生。这种情况下也要向左二分。  
+从[1, maxcity]开始二分。对于二分的mid，若get_sum[mid] < x，则[1, mid]区间内的女生不够x个，则向右继续二分。若get_sum[mid] > x，则[1, mid]区间内的女生多于x个了，继续向左二分。
+当get_sum[mid] == x时，[1, mid]区间内的女生正好有x个，注意此时若has[mid]为TRUE，即mid城市有女生，那么mid就是第x个有女生的城市。但若has[mid]为FALSE，
+则第x个有女生的城市在mid之前，只是第x个有女生的城市到mid之间没有城市有女生，所以[1, mid]内仍然是x个女生。这种情况下也要向左二分。  
 找到正确的mid之后更新sum和a[mid]: `sum -= a[mid]; a[mid] = 0;`，更新has[mid]为FALSE，并`add(mid, -1)`
 
 ### Q
