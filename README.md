@@ -11,7 +11,7 @@
 |P1129|[[ZJOI2007]矩阵游戏](https://www.luogu.org/problemnew/show/P1129)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1129/P1129.cpp)|[Reference](https://www.luogu.org/problemnew/solution/P1129)|
 |P1168|[中位数](https://www.luogu.org/problemnew/show/P1168)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1168/P1168.cc)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1168/Solution.md)|
 |P1186|[玛丽卡](https://www.luogu.org/problemnew/show/P1186)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1186/P1186.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1186/Solution.md)|
-|P1198|[[JSOI2008]最大数](https://www.luogu.org/problemnew/show/P1198)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1198/P1198.c)|-|
+|P1198|[[JSOI2008]最大数](https://www.luogu.org/problemnew/show/P1198)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1198/P1198.c)|-|
 |P1330|[封锁阳光大学](https://www.luogu.org/problemnew/show/P1330)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1330/C%2B%2B/P1330.cpp)/[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1330/C/P1330.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1330/Solution.md)|
 |P1342|[请柬](https://www.luogu.org/problemnew/show/P1342)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1342/P1342.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1342/Solution.md)|
 |P1343|[地震逃生](https://www.luogu.org/problemnew/show/P1343)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1343/P1343.cpp)|-|
@@ -26,6 +26,7 @@
 |P1608|[路径统计](https://www.luogu.org/problemnew/show/P1608)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1608/P1608.cpp)|-|
 |P1629|[邮递员送信](https://www.luogu.org/problemnew/show/P1629)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1629/P1629.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1629/Solution.md)|
 |P1726|[上白泽慧音](https://www.luogu.org/problemnew/show/P1726)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1726/P1726.cpp)|-|
+|P1801|[黑匣子_NOI导刊2010提高（06）](https://www.luogu.org/problemnew/show/P1801)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1801/P1801.cc)|-|
 |P1841|[[JSOI2007]重要的城市](https://www.luogu.org/problemnew/show/P1841)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1841/P1841.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1841/Solution.md)|
 |P1894|[[USACO4.2]完美的牛栏The Perfect Stall](https://www.luogu.org/problemnew/show/P1894)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1894/P1894.cpp)|-|
 |P1951|[收费站_NOI导刊2009提高(2)](https://www.luogu.org/problemnew/show/P1951)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1951/P1951.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1951/Solution.md)|
