@@ -53,6 +53,7 @@
 |P3366|[[模板]最小生成树](https://www.luogu.org/problemnew/show/P3366)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3366/P3366.cpp)|-|
 |P3368|[[模板]树状数组 2](https://www.luogu.org/problemnew/show/P3368)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3368/P3368.c)|[Reference](https://www.cnblogs.com/dilthey/p/9366491.html)|
 |P3369|[[模板]普通平衡树](https://www.luogu.org/problemnew/show/P3369)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3369/P3369.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3369/Solution.md)|
+|P3372|[[模板]线段树 1](https://www.luogu.org/problemnew/show/P3372)|[C(BIT)](https://github.com/jerrykcode/luogu/blob/master/Problems/P3372/BIT/P3372.c)/[C(SegmentTree)](https://github.com/jerrykcode/luogu/blob/master/Problems/P3372/SegmentTree/P3372.c)|[Ref(BIT)](https://www.cnblogs.com/dilthey/p/9366491.html#c)/[Ref(SegmentTree)](https://www.luogu.org/blog/derren/solution-p3372)|
 |P3374|[[模板]树状数组 1](https://www.luogu.org/problemnew/show/P3374)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3374/P3374.c)|-|
 |P3376|[[模板]网络最大流](https://www.luogu.org/problemnew/show/P3376)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3376/P3376.cpp)|-|
 |P3386|[[模板]二分图匹配](https://www.luogu.org/problemnew/show/P3386)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3386/P3386.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3386/Solution.md)|
