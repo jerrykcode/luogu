@@ -23,9 +23,9 @@ else
 endif
 
 run : $(BIT) $(ST) input
-	echo execute(binary index tree):
+	echo execute binary index tree:
 	$(EXECUTE_BIT) < input
-	echo execute(segment tree):
+	echo execute segment tree:
 	$(EXECUTE_ST) < input
 
 clean : 
