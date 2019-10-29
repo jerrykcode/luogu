@@ -17,7 +17,9 @@ TARGETS = $(BIT_TARGET) $(SBT_TARGET)
 
 run : $(TARGETS) input
 	$(EXECUTE_CMD)$(BIT_TARGET) < input
+	$(EXECUTE_CMD)$(BIT_TARGET) < input1
 	$(EXECUTE_CMD)$(SBT_TARGET) < input
+	$(EXECUTE_CMD)$(SBT_TARGET) < input1
 
 clean : 
 	$(CLEAN_CMD) $(BIT_TARGET)

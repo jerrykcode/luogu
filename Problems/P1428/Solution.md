@@ -58,22 +58,48 @@ struct node {
 
 ### SBT树
 
-另外一种小题大做的做法是使用SBT树，一种通过结点数量维护平衡的平衡树。
+#### 之前SBT的做法虽然AC，但其实是有bug的！
+>另外一种小题大做的做法是使用SBT树，一种通过结点数量维护平衡的平衡树。
+>
+>定义树结点:
+>```c
+>typedef struct TNode {
+>	int key;
+>	size_t size;
+>	struct TNode *left, *right;
+>} *SBT;
+>
+>```
+>其中，key为插入的整数，二叉搜索树也依据key排序，size为所有子结点(包括自己)的数量。
+>
+>对于每个整数，插入SBT平衡树即可，若待插入整数key >= tree->key，则递归插入右子树，且tree->left的所有结点小于key，如果key > tree->key，那么小于key的整数数量还要加1。
+>
+>即插入key的过程中即可求出树中小于key的整数数量。
 
-定义树结点:
+在插入相同数时，会有bug，如这一组输入(input1)
+10
+1 1 1 1 1 1 1 1 1 1
+正确应输出全0，但之前的SBT代码输出 0 0 0 1 1 2 3 4 4 5
+
+#### BUG
+二叉索搜树的性质是左边<根<右边，但当key == t->key时，key应该递归插入左子树还是右子树呢？之前的代码是插入了右子树，那么考虑插入10个1的情况，树本来会形成一根链表，但是维护平衡后，树的左子树的所有结点与右子树的所有结点以及树根的key全部是1，此时树就已经不是二叉搜索树了！！！
+
+#### 正解
+对于重复插入的数，一种正确的做法是`将相同的数用同一个结点记录`。  
+那么显然树结点中要增加一个`key_num`属性用来记录key出现了多少次，插入相同的key时，key_num++即可。  
+`size`属性变为`node_size`，表示树有多少结点，用来维护平衡，  
+注意此时一个结点可能代表多个数，所以还要用`num_size`属性记录树中插入了多少个数。插入过程中计算有多少个数小于待插入数，就是基于`num_size`属性的。
 ```c
 typedef struct TNode {
 	int key;
-	size_t size;
+	size_t key_num;
+	size_t num_size;
+	size_t node_size;
 	struct TNode *left, *right;
-} *SBT;
-
+} *Tree;
 ```
-其中，key为插入的整数，二叉搜索树也依据key排序，size为所有子结点(包括自己)的数量。
 
-对于每个整数，插入SBT平衡树即可，若待插入整数key >= tree->key，则递归插入右子树，且tree->left的所有结点小于key，如果key > tree->key，那么小于key的整数数量还要加1。
 
-即插入key的过程中即可求出树中小于key的整数数量。
 
 ## 代码
 
@@ -143,136 +169,164 @@ int main() {
 
 ### SBT树
 
+以下是改正后的代码SBT/P1428.c，之前的错误代码在SBT/P1428_bug.c中
+
 ```c
 #include "stdio.h"
 #include "stdlib.h"
 
 typedef struct TNode {
 	int key;
-	size_t size;
+	size_t key_num; //key出现次数
+	size_t num_size; //树中插入了多少个数
+	size_t node_size; //树的结点个数
 	struct TNode *left, *right;
-} *SBT;
+} *Tree;
 
-#define SIZE(tree) ((tree) ? (tree->size) : 0)
+size_t getKeyNum(Tree t) { return t ? t->key_num : 0; }
+size_t getNumSize(Tree t) { return t ? t->num_size : 0; }
+size_t getNodeSize(Tree t) { return t ? t->node_size : 0; }
 
-SBT newTNode(int key);
-SBT leftRotate(SBT tree);
-SBT rightRotate(SBT tree);
-SBT maintain(SBT tree);
-SBT maintainLeft(SBT tree);
-SBT maintainRight(SBT tree);
-SBT insert(SBT tree, int key);
-void deleteTree(SBT tree);
+Tree newTNode(int key); //返回新结点
 
-SBT tree = NULL;
-size_t smaller_num;
+Tree leftRotate(Tree t); //左旋
+Tree rightRotate(Tree t); //右旋
+
+//维护平衡
+Tree maintain(Tree t);
+Tree maintainLeft(Tree t);
+Tree maintainRight(Tree t);
+
+//插入key
+Tree insert(Tree t, int key);
+
+//删除内存
+void deleteTree(Tree t);
+
+size_t smaller_num_; //记录插入过程中有多少个数小于待插入数
 
 int main() {
 	int n, key;
 	scanf("%d", &n);
+	Tree t = NULL;
 	for (int i = 0; i < n; i++) {
 		scanf("%d", &key);
-		smaller_num = 0;
-		tree = insert(tree, key);
-		if (i != 0) putchar(' ');
-		printf("%d", smaller_num);
+		smaller_num_ = 0;
+		t = insert(t, key);
+		if (i) putchar(' ');
+		printf("%d", smaller_num_);
 	}
-	deleteTree(tree);
+	deleteTree(t);
 	return 0;
 }
 
-SBT newTNode(int key) {
-	SBT tree = (SBT)malloc(sizeof(struct TNode));
-	tree->key = key;
-	tree->size = 1;
-	tree->left = tree->right = NULL;
-	return tree;
+Tree newTNode(int key) {
+	Tree t = (Tree)malloc(sizeof(struct TNode));
+	t->key = key;
+	t->key_num = 1;
+	t->num_size = 1;
+	t->node_size = 1;
+	t->left = t->right = NULL;
+	return t;
 }
 
-SBT leftRotate(SBT tree) {
-	if (!tree || !tree->right) return tree;
-	SBT k = tree->right;
-	tree->right = k->left;
-	k->left = tree;
-	tree->size = SIZE(tree->left) + SIZE(tree->right) + 1;
-	k->size = tree->size + SIZE(k->right) + 1;
+Tree leftRotate(Tree t) {
+	Tree k = t->right;
+	t->right = k->left;
+	k->left = t;
+	k->num_size = t->num_size;
+	k->node_size = t->node_size;
+	t->num_size = getNumSize(t->left) + getNumSize(t->right) + t->key_num;
+	t->node_size = getNodeSize(t->left) + getNodeSize(t->right) + 1;
 	return k;
 }
 
-SBT rightRotate(SBT tree) {
-	if (!tree || !tree->left) return tree;
-	SBT k = tree->left;
-	tree->left = k->right;
-	k->right = tree;
-	tree->size = SIZE(tree->left) + SIZE(tree->right) + 1;
-	k->size = SIZE(k->left) + tree->size + 1;
+Tree rightRotate(Tree t) {
+	Tree k = t->left;
+	t->left = k->right;
+	k->right = t;
+	k->num_size = t->num_size;
+	k->node_size = t->node_size;
+	t->num_size = getNumSize(t->left) + getNumSize(t->right) + t->key_num;
+	t->node_size = getNodeSize(t->left) + getNodeSize(t->right) + 1;
 	return k;
 }
 
-SBT maintain(SBT tree) {
-	tree = maintainLeft(tree);
-	return maintainRight(tree);
+Tree maintain(Tree t) {
+	t = maintainLeft(t);
+	return maintainRight(t);
 }
 
-SBT maintainLeft(SBT tree) {
-	if (!tree) return tree;
-	if (!tree->left) return tree;
-	if (tree->left->left && tree->left->left->size > SIZE(tree->right)) {
-		tree = rightRotate(tree);
-		tree->right = maintain(tree->right);
-		tree = maintain(tree);
+Tree maintainLeft(Tree t) {
+	//维护平衡，保证左子树的两个子树的node_size小于右子树的node_size
+	if (t == NULL || t->left == NULL) return t;
+	if (t->left->left && t->left->left->node_size > getNodeSize(t->right)) {
+		t = rightRotate(t);
+		t->right = maintain(t->right);
+		t = maintain(t);
 	}
-	if (tree->left->right && tree->left->right->size > SIZE(tree->right)) {
-		tree->left = leftRotate(tree->left);
-		tree = rightRotate(tree);
-		tree->left = maintain(tree->left);
-		tree->right = maintain(tree->right);
-		tree = maintain(tree);
+	if (t->left->right && t->left->right->node_size > getNodeSize(t->right)) {
+		t->left = leftRotate(t->left);
+		t = rightRotate(t);
+		t->left = maintain(t->left);
+		t->right = maintain(t->right);
+		t = maintain(t);
 	}
-	return tree;
+	return t;
 }
 
-SBT maintainRight(SBT tree) {
-	if (!tree) return tree;
-	if (!tree->right) return tree;
-	if (tree->right->right && tree->right->right->size > SIZE(tree->left)) {
-		tree = leftRotate(tree);
-		tree->left = maintain(tree->left);
-		tree = maintain(tree);
+Tree maintainRight(Tree t) {
+	//维护平衡，保证右子树的两个子树的node_size小于左子树的node_size
+	if (t == NULL || t->right == NULL) return t;
+	if (t->right->right && t->right->right->node_size > getNodeSize(t->left)) {
+		t = leftRotate(t);
+		t->left = maintain(t->left);
+		t = maintain(t);
 	}
-	if (tree->right->left && tree->right->left->size > SIZE(tree->left)) {
-		tree->right = rightRotate(tree->right);
-		tree = leftRotate(tree);
-		tree->left = maintain(tree->left);
-		tree->right = maintain(tree->right);
-		tree = maintain(tree);
+	if (t->right->left && t->right->left->node_size > getNodeSize(t->left)) {
+		t->right = rightRotate(t->right);
+		t = leftRotate(t);
+		t->left = maintain(t->left);
+		t->right = maintain(t->right);
+		t = maintain(t);
 	}
-	return tree;
+	return t;
 }
 
-SBT insert(SBT tree, int key) {
-	if (tree == NULL) {
+Tree insert(Tree t, int key) {
+	if (t == NULL) {
 		return newTNode(key);
 	}
-	tree->size++;
-	if (key < tree->key) {
-		tree->left = insert(tree->left, key);
-		tree = maintainLeft(tree);
+	t->num_size++; //只要插入数，num_size就增1
+	if (key == t->key) { //key之前已插入过
+		t->key_num++;
+		smaller_num_ += getNumSize(t->left); //左子树的所有结点的key小于key，注意getNumSize不是getNodeSize
 	}
-	else { //key >= tree->key
-		smaller_num += SIZE(tree->left);
-		if (key > tree->key) smaller_num++;
-		tree->right = insert(tree->right, key);
-		tree = maintainRight(tree);
+	else if (key < t->key) {		
+		size_t tmp_size = getNodeSize(t->left); //记录左子树的node_size
+		t->left = insert(t->left, key); //递归插入左边
+		if (getNodeSize(t->left) > tmp_size) { //若左子树的node_size变化，即左子树中新建了结点
+			t->node_size++;
+			t = maintainLeft(t); //维护平衡
+		}
 	}
-	return tree;
+	else { //key > t->key
+		smaller_num_ += getNumSize(t->left) + t->key_num; //左子树的所有结点的key小于key，且t代表的数也小于key
+		size_t tmp_size = getNodeSize(t->right); //记录右子树的node_size
+		t->right = insert(t->right, key); //递归插入右子树
+		if (getNodeSize(t->right) > tmp_size) { //若右子树的node_size变化，即右子树中新建了结点
+			t->node_size++;
+			t = maintainRight(t); //维护平衡
+		}
+	}
+	return t;
 }
 
-void deleteTree(SBT tree) {
-	if (!tree) return;
-	if (tree->left) deleteTree(tree->left);
-	if (tree->right) deleteTree(tree->right);
-	free(tree);
+void deleteTree(Tree t) {
+	if (t == NULL) return;
+	deleteTree(t->left);
+	deleteTree(t->right);
+	free(t);
 }
 ```
 
