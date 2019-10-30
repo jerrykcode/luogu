@@ -3,7 +3,7 @@ ifeq ($(OS), Windows_NT)
 	EXECUTE = $(TARGET)
 	CLEAN = del $(TARGET)
 else
-	UNAME_S := $(shell uanme -s)
+	UNAME_S := $(shell uname -s)
 	ifeq ($(UNAME_S), Linux)
 		TARGET = P2023
 		EXECUTE = ./$(TARGET)
