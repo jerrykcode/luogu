@@ -33,6 +33,7 @@
 |P1951|[收费站_NOI导刊2009提高(2)](https://www.luogu.org/problemnew/show/P1951)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1951/P1951.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1951/Solution.md)|
 |P1972|[[SDOI2009]HH的项链](https://www.luogu.org/problemnew/show/P1972)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1972/P1972.c)|[Reference](https://www.luogu.org/blog/user3432/solution-p1972)|
 |P1983|[车站分级](https://www.luogu.org/problemnew/show/P1983)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1983/P1983.cpp)|-|
+|P2023|[[AHOI2009]维护序列](https://www.luogu.org/problemnew/show/P2023)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2023/P2023.c)|-|
 |P2055|[[ZJOI2009]假期的宿舍](https://www.luogu.org/problemnew/show/P2055)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2055/P2055.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2055/Solution.md)|
 |P2068|[统计和](https://www.luogu.org/problemnew/show/P2068)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2068/P2068.c)|-|
 |P2071|[座位安排](https://www.luogu.org/problemnew/show/P2071)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2071/P2071.cpp)|-|
