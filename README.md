@@ -64,6 +64,7 @@
 |P3871|[[TJOI2010]中位数](https://www.luogu.org/problemnew/show/P3871)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3871/P3871.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3871/Solution.md)|
 |P3946|[ことりのおやつ(小鸟的点心)](https://www.luogu.org/problemnew/show/P3946)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3946/P3946.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3946/Solution.md)|
 |P4480|[抓住czx](https://www.luogu.org/problemnew/show/P4480)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P4480/P4480.cpp)|-|
+|P4552|[[Poetize6] IncDec Sequence](https://www.luogu.org/problemnew/show/P4552)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P4552/P4552.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P4552/Solution.md)|
 |P4554|[小明的游戏](https://www.luogu.org/problemnew/show/P4554)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P4554/P4554.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P4554/Solution.md)|
 |P4568|[P4568 [JLOI2011]飞行路线](https://www.luogu.org/problemnew/show/P4568)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P4568/P4568.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P4568/Solution.md)|
 |P4879|[ycz的妹子](https://www.luogu.org/problemnew/show/P4879)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P4879/P4879.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P4879/Solution.md)|
