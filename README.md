@@ -23,7 +23,7 @@
 |P1491|[集合位置](https://www.luogu.org/problemnew/show/P1491)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1491/P1491.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1491/Solution.md)|
 |P1529|[回家 Bessie Come Home](https://www.luogu.org/problemnew/show/P1529)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1529/P1529.c)|-|
 |P1550[USACO08OCT]|[打井Watering Hole](https://www.luogu.org/problemnew/show/P1550)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1550/P1550.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1550/Solution.md)|
-|P1558|[色板游戏](https://www.luogu.org/problemnew/show/P1558)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1558/P1558.c)|[Reference](https://63661.blog.luogu.org/solution-p1558)|
+|P1558|[色板游戏](https://www.luogu.org/problemnew/show/P1558)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1558/P1558.c)|[Reference](https://63661.blog.luogu.org/solution-p1558)|
 |P1576|[最小花费](https://www.luogu.org/problemnew/show/P1576)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1576/P1576.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1576/Solution.md)|
 |P1608|[路径统计](https://www.luogu.org/problemnew/show/P1608)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1608/P1608.cpp)|-|
 |P1629|[邮递员送信](https://www.luogu.org/problemnew/show/P1629)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1629/P1629.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1629/Solution.md)|
