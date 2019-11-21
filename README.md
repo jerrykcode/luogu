@@ -45,6 +45,7 @@
 |P2319|[[HNOI2006]超级英雄](https://www.luogu.org/problemnew/show/P2319)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2319/P2319.cpp)|[Notice!!!](https://www.luogu.org/blog/xfarawayx/solution-p2319)|
 |P2343|[ 宝石管理系统](https://www.luogu.org/problemnew/show/P2343)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2343/P2343.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2343/Solution.md)|
 |P2417|[课程](https://www.luogu.org/problemnew/show/P2417)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2417/P2417.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2417/Solution.md)|
+|P2574|[XOR的艺术](https://www.luogu.org/problemnew/show/P2574)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2574/P2574.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2574/Solution.md)|
 |P2683|[小岛](https://www.luogu.org/problemnew/show/P2683)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2683/P2683.cpp)|-|
 |P2756|[飞行员配对方案问题](https://www.luogu.org/problemnew/show/P2756)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2756/P2756.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2756/Solution.md)|
 |P2825|[[HEOI2016/TJOI2016]游戏](https://www.luogu.org/problemnew/show/P2825)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2825/P2825.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2825/Solution.md)|
