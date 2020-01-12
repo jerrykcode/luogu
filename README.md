@@ -5,8 +5,8 @@
 |序号|原题地址|代码|题解|
 |---|---|---|---|
 |P1027|[Car的旅行路线](https://www.luogu.org/problemnew/show/P1027)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1027/P1027.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1027/Solution.md)|
-|P1048|[采药](https://www.luogu.org/problemnew/show/P1048)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1048/P1048.c)|-|
-|P1060|[开心的金明](https://www.luogu.org/problemnew/show/P1060)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1060/P1060.c)|-|
+|P1048|[采药](https://www.luogu.org/problemnew/show/P1048)|[C(1D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1048/1D/P1048.c)/[C(2D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1048/2D/P1048.c)|-|
+|P1060|[开心的金明](https://www.luogu.org/problemnew/show/P1060)|[C(1D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1060/1D/P1060.c)/[C(2D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1060/2D/P1060.c)|-|
 |P1110|[[ZJOI2007]报表统计](https://www.luogu.org/problemnew/show/P1110)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1110/P1110.cpp)|[Reference](https://www.luogu.org/problemnew/solution/P1110)|
 |P1129|[[ZJOI2007]矩阵游戏](https://www.luogu.org/problemnew/show/P1129)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1129/P1129.cpp)|[Reference](https://www.luogu.org/problemnew/solution/P1129)|
 |P1168|[中位数](https://www.luogu.org/problemnew/show/P1168)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1168/P1168.cc)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1168/Solution.md)|
@@ -55,7 +55,7 @@
 |P2825|[[HEOI2016/TJOI2016]游戏](https://www.luogu.org/problemnew/show/P2825)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2825/P2825.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2825/Solution.md)|
 |P2829|[大逃离](https://www.luogu.org/problemnew/show/P2829)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2829/P2829.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2829/Solution.md)|
 |P2865[USACO06NOV]|[路障Roadblocks](https://www.luogu.org/problemnew/show/P2865)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2865/P2865.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2865/Solution.md)|
-|P2871|[[USACO07DEC]手链Charm Bracelet](https://www.luogu.org/problemnew/show/P2871)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2871/P2871.c)|-|
+|P2871|[[USACO07DEC]手链Charm Bracelet](https://www.luogu.org/problemnew/show/P2871)|[C(1D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P2871/1D/P2871.c)/[C(2D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P2871/2D/P2871.c)|-|
 |P2880[USACO07JAN]|[平衡的阵容Balanced Lineup](https://www.luogu.org/problemnew/show/P2880)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2880/P2880.c)|-|
 |P2939[USACO09FEB]|[改造路Revamping Trails](https://www.luogu.org/problemnew/show/P2939)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2939/P2939.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2939/Solution.md)|
 |P3003|[[USACO10DEC]苹果交货Apple Delivery](https://www.luogu.org/problemnew/show/P3003)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3003/P3003.cpp)|-|
