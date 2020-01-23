@@ -30,8 +30,8 @@
 |P1616|[疯狂的采药](https://www.luogu.org/problemnew/show/P1616)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1616/P1616.c)|[Reference](https://www.luogu.com.cn/blog/RPdreamer/bei-bao-wen-ti)|
 |P1629|[邮递员送信](https://www.luogu.org/problemnew/show/P1629)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1629/P1629.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1629/Solution.md)|
 |P1712|[[NOI2016]区间](https://www.luogu.org/problemnew/show/P1712)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1712/P1712.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1712/Solution.md)/[Reference](https://www.luogu.com.cn/blog/AcFcAcFcA/solution-p1712)|
-|P1734|[最大约数和](https://www.luogu.org/problemnew/show/P1734)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1734/P1734.c)|-|
 |P1726|[上白泽慧音](https://www.luogu.org/problemnew/show/P1726)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1726/P1726.cpp)|-|
+|P1734|[最大约数和](https://www.luogu.org/problemnew/show/P1734)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1734/P1734.c)|-|
 |P1757|[通天之分组背包](https://www.luogu.org/problemnew/show/P1757)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1757/P1757.c)|[Reference](https://www.luogu.com.cn/blog/RPdreamer/bei-bao-wen-ti)|
 |P1776|[宝物筛选](https://www.luogu.org/problemnew/show/P1776)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1776/P1776.c)|[Reference](https://www.luogu.com.cn/blog/RPdreamer/bei-bao-wen-ti)|
 |P1801|[黑匣子_NOI导刊2010提高（06）](https://www.luogu.org/problemnew/show/P1801)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1801/P1801.cc)|-|
@@ -55,6 +55,7 @@
 |P2584[ZJOI2006]|[GameZ游戏排名系统](https://www.luogu.org/problemnew/show/P2584)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2584/P2584.cc)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2584/Solution.md)|
 |P2639|[[USACO09OCT]Bessie的体重问题Bessie's Weight](https://www.luogu.org/problemnew/show/P2639)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2639/P2639.c)|-|
 |P2683|[小岛](https://www.luogu.org/problemnew/show/P2683)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2683/P2683.cpp)|-|
+|P2722|[总分 Score Inflation](https://www.luogu.org/problemnew/show/P2722)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2722/P2722.c)|-|
 |P2756|[飞行员配对方案问题](https://www.luogu.org/problemnew/show/P2756)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2756/P2756.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2756/Solution.md)|
 |P2824|[[HEOI2016/TJOI2016]排序](https://www.luogu.com.cn/problem/P2824)|[C(O2)](https://github.com/jerrykcode/luogu/blob/master/Problems/P2824/P2824.c)|[Reference](https://www.luogu.com.cn/blog/bestFy0731/solution-p2824)|
 |P2825|[[HEOI2016/TJOI2016]游戏](https://www.luogu.org/problemnew/show/P2825)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2825/P2825.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2825/Solution.md)|
