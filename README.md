@@ -37,6 +37,7 @@
 |P1801|[黑匣子_NOI导刊2010提高（06）](https://www.luogu.org/problemnew/show/P1801)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1801/P1801.cc)|-|
 |P1841|[[JSOI2007]重要的城市](https://www.luogu.org/problemnew/show/P1841)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1841/P1841.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1841/Solution.md)|
 |P1894|[[USACO4.2]完美的牛栏The Perfect Stall](https://www.luogu.org/problemnew/show/P1894)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1894/P1894.cpp)|-|
+|P1910|[L国的战斗之间谍](https://www.luogu.org/problemnew/show/P1910)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1910/P1910.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1910/Solution.md)|
 |P1951|[收费站_NOI导刊2009提高(2)](https://www.luogu.org/problemnew/show/P1951)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1951/P1951.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1951/Solution.md)|
 |P1972|[[SDOI2009]HH的项链](https://www.luogu.org/problemnew/show/P1972)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1972/P1972.c)|[Reference](https://www.luogu.org/blog/user3432/solution-p1972)|
 |P1983|[车站分级](https://www.luogu.org/problemnew/show/P1983)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1983/P1983.cpp)|-|
