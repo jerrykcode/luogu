@@ -12,6 +12,7 @@
 |P1168|[中位数](https://www.luogu.org/problemnew/show/P1168)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1168/P1168.cc)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1168/Solution.md)|
 |P1186|[玛丽卡](https://www.luogu.org/problemnew/show/P1186)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1186/P1186.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1186/Solution.md)|
 |P1198|[[JSOI2008]最大数](https://www.luogu.org/problemnew/show/P1198)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1198/P1198.c)|-|
+|P1220|[关路灯](https://www.luogu.org/problemnew/show/P1220)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1220/P1220.c)|[Reference](https://www.luogu.com.cn/blog/ButterflyDew/solution-p1220)|
 |P1330|[封锁阳光大学](https://www.luogu.org/problemnew/show/P1330)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1330/C%2B%2B/P1330.cpp)/[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1330/C/P1330.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1330/Solution.md)|
 |P1342|[请柬](https://www.luogu.org/problemnew/show/P1342)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1342/P1342.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1342/Solution.md)|
 |P1343|[地震逃生](https://www.luogu.org/problemnew/show/P1343)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1343/P1343.cpp)|-|
