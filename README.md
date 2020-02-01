@@ -33,6 +33,7 @@
 |P1712|[[NOI2016]区间](https://www.luogu.org/problemnew/show/P1712)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1712/P1712.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1712/Solution.md)/[Reference](https://www.luogu.com.cn/blog/AcFcAcFcA/solution-p1712)|
 |P1726|[上白泽慧音](https://www.luogu.org/problemnew/show/P1726)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1726/P1726.cpp)|-|
 |P1734|[最大约数和](https://www.luogu.org/problemnew/show/P1734)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1734/P1734.c)|-|
+|P1736|[创意吃鱼法](https://www.luogu.org/problemnew/show/P1736)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1736/P1736.c)|[Reference](https://www.luogu.com.cn/blog/wzh/solution-p1736)|
 |P1757|[通天之分组背包](https://www.luogu.org/problemnew/show/P1757)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1757/P1757.c)|[Reference](https://www.luogu.com.cn/blog/RPdreamer/bei-bao-wen-ti)|
 |P1776|[宝物筛选](https://www.luogu.org/problemnew/show/P1776)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1776/P1776.c)|[Reference](https://www.luogu.com.cn/blog/RPdreamer/bei-bao-wen-ti)|
 |P1801|[黑匣子_NOI导刊2010提高（06）](https://www.luogu.org/problemnew/show/P1801)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1801/P1801.cc)|-|
