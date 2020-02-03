@@ -6,6 +6,7 @@
 |---|---|---|---|
 |P1027|[Car的旅行路线](https://www.luogu.org/problemnew/show/P1027)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1027/P1027.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1027/Solution.md)|
 |P1048|[采药](https://www.luogu.org/problemnew/show/P1048)|[C(1D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1048/1D/P1048.c)/[C(2D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1048/2D/P1048.c)|-|
+|P1049|[装箱问题](https://www.luogu.org/problemnew/show/P1049)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1049/P1049.c)|-|
 |P1060|[开心的金明](https://www.luogu.org/problemnew/show/P1060)|[C(1D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1060/1D/P1060.c)/[C(2D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1060/2D/P1060.c)|-|
 |P1110|[[ZJOI2007]报表统计](https://www.luogu.org/problemnew/show/P1110)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1110/P1110.cpp)|[Reference](https://www.luogu.org/problemnew/solution/P1110)|
 |P1129|[[ZJOI2007]矩阵游戏](https://www.luogu.org/problemnew/show/P1129)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1129/P1129.cpp)|[Reference](https://www.luogu.org/problemnew/solution/P1129)|
