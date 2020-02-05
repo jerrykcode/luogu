@@ -37,6 +37,7 @@
 |P1736|[创意吃鱼法](https://www.luogu.org/problemnew/show/P1736)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1736/P1736.c)|[Reference](https://www.luogu.com.cn/blog/wzh/solution-p1736)|
 |P1757|[通天之分组背包](https://www.luogu.org/problemnew/show/P1757)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1757/P1757.c)|[Reference](https://www.luogu.com.cn/blog/RPdreamer/bei-bao-wen-ti)|
 |P1776|[宝物筛选](https://www.luogu.org/problemnew/show/P1776)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1776/P1776.c)|[Reference](https://www.luogu.com.cn/blog/RPdreamer/bei-bao-wen-ti)|
+|P1799|[数列](https://www.luogu.org/problemnew/show/P1799)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1799/P1799.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1799/Solution.md)/[Reference](https://siyuan.blog.luogu.org/solution-p1799)|
 |P1801|[黑匣子_NOI导刊2010提高（06）](https://www.luogu.org/problemnew/show/P1801)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1801/P1801.cc)|-|
 |P1841|[[JSOI2007]重要的城市](https://www.luogu.org/problemnew/show/P1841)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1841/P1841.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1841/Solution.md)|
 |P1894|[[USACO4.2]完美的牛栏The Perfect Stall](https://www.luogu.org/problemnew/show/P1894)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1894/P1894.cpp)|-|
