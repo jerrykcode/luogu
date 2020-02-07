@@ -59,6 +59,7 @@
 |P2574|[XOR的艺术](https://www.luogu.org/problemnew/show/P2574)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2574/P2574.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2574/Solution.md)|
 |P2584[ZJOI2006]|[GameZ游戏排名系统](https://www.luogu.org/problemnew/show/P2584)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2584/P2584.cc)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2584/Solution.md)|
 |P2639|[[USACO09OCT]Bessie的体重问题Bessie's Weight](https://www.luogu.org/problemnew/show/P2639)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2639/P2639.c)|-|
+|P2679|[宝石串](https://www.luogu.org/problemnew/show/P2679)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2679/P2679.c)|[Reference](https://www.luogu.com.cn/blog/MloVtry/solution-p2697)|
 |P2683|[小岛](https://www.luogu.org/problemnew/show/P2683)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2683/P2683.cpp)|-|
 |P2722|[总分 Score Inflation](https://www.luogu.org/problemnew/show/P2722)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2722/P2722.c)|-|
 |P2756|[飞行员配对方案问题](https://www.luogu.org/problemnew/show/P2756)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2756/P2756.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2756/Solution.md)|
