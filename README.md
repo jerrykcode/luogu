@@ -27,6 +27,7 @@
 |P1533|[可怜的狗狗](https://www.luogu.org/problemnew/show/P1533)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1533/P1533.cc)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1533/Solution.md)|
 |P1550[USACO08OCT]|[打井Watering Hole](https://www.luogu.org/problemnew/show/P1550)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1550/P1550.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1550/Solution.md)|
 |P1558|[色板游戏](https://www.luogu.org/problemnew/show/P1558)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1558/P1558.c)|[Reference](https://63661.blog.luogu.org/solution-p1558)|
+|P1564|[膜拜](https://www.luogu.org/problemnew/show/P1564)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1564/P1564.c)|[Reference](https://www.luogu.com.cn/blog/Feliks-YB/solution-p1564)|
 |P1576|[最小花费](https://www.luogu.org/problemnew/show/P1576)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1576/P1576.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1576/Solution.md)|
 |P1608|[路径统计](https://www.luogu.org/problemnew/show/P1608)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1608/P1608.cpp)|-|
 |P1616|[疯狂的采药](https://www.luogu.org/problemnew/show/P1616)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1616/P1616.c)|[Reference](https://www.luogu.com.cn/blog/RPdreamer/bei-bao-wen-ti)|
