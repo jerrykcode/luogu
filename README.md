@@ -73,6 +73,7 @@
 |P2865[USACO06NOV]|[路障Roadblocks](https://www.luogu.org/problemnew/show/P2865)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2865/P2865.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2865/Solution.md)|
 |P2871|[[USACO07DEC]手链Charm Bracelet](https://www.luogu.org/problemnew/show/P2871)|[C(1D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P2871/1D/P2871.c)/[C(2D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P2871/2D/P2871.c)|-|
 |P2880[USACO07JAN]|[平衡的阵容Balanced Lineup](https://www.luogu.org/problemnew/show/P2880)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2880/P2880.c)|-|
+|P2925[USACO08DEC]|[干草出售Hay For Sale](https://www.luogu.org/problemnew/show/P2925)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2925/P2925.c)|-|
 |P2939[USACO09FEB]|[改造路Revamping Trails](https://www.luogu.org/problemnew/show/P2939)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2939/P2939.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2939/Solution.md)|
 |P3003|[[USACO10DEC]苹果交货Apple Delivery](https://www.luogu.org/problemnew/show/P3003)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3003/P3003.cpp)|-|
 |P3366|[[模板]最小生成树](https://www.luogu.org/problemnew/show/P3366)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3366/P3366.cpp)|-|
