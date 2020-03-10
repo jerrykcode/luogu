@@ -70,6 +70,7 @@
 |P2679|[宝石串](https://www.luogu.org/problemnew/show/P2679)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2679/P2679.c)|[Reference](https://www.luogu.com.cn/blog/MloVtry/solution-p2697)|
 |P2683|[小岛](https://www.luogu.org/problemnew/show/P2683)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2683/P2683.cpp)|-|
 |P2690|[接苹果](https://www.luogu.org/problemnew/show/P2690)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2690/P2690.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2690/Solution.md)|
+|P2704|[[NOI2001]炮兵阵地](https://www.luogu.org/problemnew/show/P2704)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2704/P2704.c)|-|
 |P2722|[总分 Score Inflation](https://www.luogu.org/problemnew/show/P2722)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2722/P2722.c)|-|
 |P2756|[飞行员配对方案问题](https://www.luogu.org/problemnew/show/P2756)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2756/P2756.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2756/Solution.md)|
 |P2824|[[HEOI2016/TJOI2016]排序](https://www.luogu.com.cn/problem/P2824)|[C(O2)](https://github.com/jerrykcode/luogu/blob/master/Problems/P2824/P2824.c)|[Reference](https://www.luogu.com.cn/blog/bestFy0731/solution-p2824)|
