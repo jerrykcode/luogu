@@ -50,6 +50,7 @@
 |P1801|[黑匣子_NOI导刊2010提高（06）](https://www.luogu.org/problemnew/show/P1801)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1801/P1801.cc)|-|
 |P1802|[5倍经验日](https://www.luogu.org/problemnew/show/P1802)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1802/P1802.c)|[Warning](https://github.com/jerrykcode/luogu/blob/master/Problems/P1802/Warning.md)|
 |P1841|[[JSOI2007]重要的城市](https://www.luogu.org/problemnew/show/P1841)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1841/P1841.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1841/Solution.md)|
+|P1854|[花店橱窗布置](https://www.luogu.org/problemnew/show/P1854)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1854/P1854.c)|-|
 |P1879|[[USACO06NOV]玉米田Corn Fields](https://www.luogu.org/problemnew/show/P1879)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1879/P1879.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1879/Solution.md)/[Reference](https://blog.csdn.net/qq_35935435/article/details/58593486)|
 |P1880|[[NOI1995]石子合并](https://www.luogu.org/problemnew/show/P1880)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1880/P1880.c)|[Reference](https://dayuanjun.blog.luogu.org/solution-p1880)|
 |P1894|[[USACO4.2]完美的牛栏The Perfect Stall](https://www.luogu.org/problemnew/show/P1894)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1894/P1894.cpp)|-|
