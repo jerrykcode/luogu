@@ -9,6 +9,7 @@
 |P1049|[装箱问题](https://www.luogu.org/problemnew/show/P1049)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1049/P1049.c)|-|
 |P1060|[开心的金明](https://www.luogu.org/problemnew/show/P1060)|[C(1D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1060/1D/P1060.c)/[C(2D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1060/2D/P1060.c)|-|
 |P1103|[书本整理](https://www.luogu.org/problemnew/show/P1103)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1103/P1103.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1103/Solution.md))|
+|P1107|[[BJWC2008]雷涛的小猫](https://www.luogu.org/problemnew/show/P1107)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1107/P1107.c)|-|
 |P1110|[[ZJOI2007]报表统计](https://www.luogu.org/problemnew/show/P1110)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1110/P1110.cpp)|[Reference](https://www.luogu.org/problemnew/solution/P1110)|
 |P1129|[[ZJOI2007]矩阵游戏](https://www.luogu.org/problemnew/show/P1129)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1129/P1129.cpp)|[Reference](https://www.luogu.org/problemnew/solution/P1129)|
 |P1168|[中位数](https://www.luogu.org/problemnew/show/P1168)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1168/P1168.cc)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1168/Solution.md)|
