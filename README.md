@@ -12,6 +12,7 @@
 |P1107|[[BJWC2008]雷涛的小猫](https://www.luogu.org/problemnew/show/P1107)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1107/P1107.c)|-|
 |P1110|[[ZJOI2007]报表统计](https://www.luogu.org/problemnew/show/P1110)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1110/P1110.cpp)|[Reference](https://www.luogu.org/problemnew/solution/P1110)|
 |P1129|[[ZJOI2007]矩阵游戏](https://www.luogu.org/problemnew/show/P1129)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1129/P1129.cpp)|[Reference](https://www.luogu.org/problemnew/solution/P1129)|
+|P1164|[小A点菜](https://www.luogu.org/problemnew/show/P1164)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1164/P1164.c)|-|
 |P1168|[中位数](https://www.luogu.org/problemnew/show/P1168)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1168/P1168.cc)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1168/Solution.md)|
 |P1186|[玛丽卡](https://www.luogu.org/problemnew/show/P1186)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1186/P1186.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1186/Solution.md)|
 |P1198|[[JSOI2008]最大数](https://www.luogu.org/problemnew/show/P1198)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1198/P1198.c)|-|
