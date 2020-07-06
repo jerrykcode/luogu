@@ -76,6 +76,7 @@
 |P2169|[正则表达式](https://www.luogu.org/problemnew/show/P2169)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2169/P2169.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2169/Solution.md)|
 |P2176[USACO14FEB]|[路障Roadblock](https://www.luogu.org/problemnew/show/P2176)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2176/P2176.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2176/Solution.md)|
 |P2319|[[HNOI2006]超级英雄](https://www.luogu.org/problemnew/show/P2319)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2319/P2319.cpp)|[Notice!!!](https://www.luogu.org/blog/xfarawayx/solution-p2319)|
+|P2341|[受欢迎的牛 G](https://www.luogu.org/problemnew/show/P2341)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2341/P2341.cc)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2341/Solution.md)|
 |P2343|[ 宝石管理系统](https://www.luogu.org/problemnew/show/P2343)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2343/P2343.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2343/Solution.md)|
 |P2401|[不等数列](https://www.luogu.org/problemnew/show/P2401)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2401/P2401.c)|[Reference](https://www.luogu.com.cn/blog/ahaha254/solution-p2401)|
 |P2417|[课程](https://www.luogu.org/problemnew/show/P2417)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2417/P2417.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2417/Solution.md)|
