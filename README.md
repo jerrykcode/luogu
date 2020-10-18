@@ -86,8 +86,8 @@
 |P2417|[课程](https://www.luogu.org/problemnew/show/P2417)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2417/P2417.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2417/Solution.md)|
 |P2439|[[SDOI2005]阶梯教室设备利用](https://www.luogu.org/problemnew/show/P2439)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2439/P2439.c)|-|
 |P2574|[XOR的艺术](https://www.luogu.org/problemnew/show/P2574)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2574/P2574.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2574/Solution.md)|
-|P2585|[[ZJOI2006]三色二叉树](https://www.luogu.org/problemnew/show/P2585)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2585/P2585.c)|-|
 |P2584[ZJOI2006]|[GameZ游戏排名系统](https://www.luogu.org/problemnew/show/P2584)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2584/P2584.cc)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2584/Solution.md)|
+|P2585|[[ZJOI2006]三色二叉树](https://www.luogu.org/problemnew/show/P2585)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2585/P2585.c)|-|
 |P2639|[[USACO09OCT]Bessie的体重问题Bessie's Weight](https://www.luogu.org/problemnew/show/P2639)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2639/P2639.c)|-|
 |P2679|[宝石串](https://www.luogu.org/problemnew/show/P2679)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2679/P2679.c)|[Reference](https://www.luogu.com.cn/blog/MloVtry/solution-p2697)|
 |P2683|[小岛](https://www.luogu.org/problemnew/show/P2683)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2683/P2683.cpp)|-|
