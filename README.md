@@ -5,7 +5,7 @@
 |序号|原题地址|代码|题解|
 |---|---|---|---|
 |P1027|[Car的旅行路线](https://www.luogu.org/problemnew/show/P1027)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1027/P1027.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1027/Solution.md)|
-|P1040|[](https://www.luogu.org/problemnew/show/P1040)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1040/P1040.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1040/Solution.md)|
+|P1040|[加分二叉树](https://www.luogu.org/problemnew/show/P1040)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1040/P1040.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1040/Solution.md)|
 |P1048|[采药](https://www.luogu.org/problemnew/show/P1048)|[C(1D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1048/1D/P1048.c)/[C(2D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1048/2D/P1048.c)|-|
 |P1049|[装箱问题](https://www.luogu.org/problemnew/show/P1049)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1049/P1049.c)|-|
 |P1060|[开心的金明](https://www.luogu.org/problemnew/show/P1060)|[C(1D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1060/1D/P1060.c)/[C(2D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1060/2D/P1060.c)|-|
@@ -47,6 +47,7 @@
 |P1616|[疯狂的采药](https://www.luogu.org/problemnew/show/P1616)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1616/P1616.c)|[Reference](https://www.luogu.com.cn/blog/RPdreamer/bei-bao-wen-ti)|
 |P1629|[邮递员送信](https://www.luogu.org/problemnew/show/P1629)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1629/P1629.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1629/Solution.md)|
 |P1650|[田忌赛马](https://www.luogu.org/problemnew/show/P1650)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1650/P1650.c)|[Reference](https://www.luogu.com.cn/blog/tby-blog/solution-p1650tby)|
+|P1651|[塔](https://www.luogu.org/problemnew/show/P1651)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1651/P1651.c)|-|
 |P1712|[[NOI2016]区间](https://www.luogu.org/problemnew/show/P1712)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1712/P1712.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1712/Solution.md)/[Reference](https://www.luogu.com.cn/blog/AcFcAcFcA/solution-p1712)|
 |P1726|[上白泽慧音](https://www.luogu.org/problemnew/show/P1726)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1726/P1726.cpp)|-|
 |P1734|[最大约数和](https://www.luogu.org/problemnew/show/P1734)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1734/P1734.c)|-|
@@ -85,6 +86,7 @@
 |P2417|[课程](https://www.luogu.org/problemnew/show/P2417)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2417/P2417.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2417/Solution.md)|
 |P2439|[[SDOI2005]阶梯教室设备利用](https://www.luogu.org/problemnew/show/P2439)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2439/P2439.c)|-|
 |P2574|[XOR的艺术](https://www.luogu.org/problemnew/show/P2574)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2574/P2574.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2574/Solution.md)|
+|P2585|[[ZJOI2006]三色二叉树](https://www.luogu.org/problemnew/show/P2585)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2585/P2585.c)|-|
 |P2584[ZJOI2006]|[GameZ游戏排名系统](https://www.luogu.org/problemnew/show/P2584)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2584/P2584.cc)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2584/Solution.md)|
 |P2639|[[USACO09OCT]Bessie的体重问题Bessie's Weight](https://www.luogu.org/problemnew/show/P2639)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2639/P2639.c)|-|
 |P2679|[宝石串](https://www.luogu.org/problemnew/show/P2679)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2679/P2679.c)|[Reference](https://www.luogu.com.cn/blog/MloVtry/solution-p2697)|
