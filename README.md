@@ -67,6 +67,7 @@
 |P1894|[[USACO4.2]完美的牛栏The Perfect Stall](https://www.luogu.org/problemnew/show/P1894)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1894/P1894.cpp)|-|
 |P1896|[[SCOI2005]互不侵犯](https://www.luogu.org/problemnew/show/P1896)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1896/P1896.c)|[Reference](https://www.luogu.com.cn/blog/Kesdiael3/solution-p1896)|
 |P1910|[L国的战斗之间谍](https://www.luogu.org/problemnew/show/P1910)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1910/P1910.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1910/Solution.md)|
+|P1944|[最长括号匹配](https://www.luogu.org/problemnew/show/P1944)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1944/P1944.c)|-|
 |P1951|[收费站_NOI导刊2009提高(2)](https://www.luogu.org/problemnew/show/P1951)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1951/P1951.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1951/Solution.md)|
 |P1972|[[SDOI2009]HH的项链](https://www.luogu.org/problemnew/show/P1972)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1972/P1972.c)|[Reference](https://www.luogu.org/blog/user3432/solution-p1972)|
 |P1983|[车站分级](https://www.luogu.org/problemnew/show/P1983)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1983/P1983.cpp)|-|
