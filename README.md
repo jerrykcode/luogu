@@ -70,6 +70,7 @@
 |P1944|[最长括号匹配](https://www.luogu.org/problemnew/show/P1944)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1944/P1944.c)|-|
 |P1951|[收费站_NOI导刊2009提高(2)](https://www.luogu.org/problemnew/show/P1951)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1951/P1951.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1951/Solution.md)|
 |P1972|[[SDOI2009]HH的项链](https://www.luogu.org/problemnew/show/P1972)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1972/P1972.c)|[Reference](https://www.luogu.org/blog/user3432/solution-p1972)|
+|P1973|[[NOI2011]NOI 嘉年华](https://www.luogu.org/problemnew/show/P1973)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1973/P1973.c)|[Reference](https://www.luogu.com.cn/problem/solution/P1973)|
 |P1983|[车站分级](https://www.luogu.org/problemnew/show/P1983)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1983/P1983.cpp)|-|
 |P2014|[[CTSC1997]选课](https://www.luogu.org/problemnew/show/P2014)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2014/P2014.cc)|[Reference](https://www.luogu.com.cn/blog/HullEssien/solution-p2014)|
 |P2015|[二叉苹果树](https://www.luogu.org/problemnew/show/P2015)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2015/P2015.cc)|-|
