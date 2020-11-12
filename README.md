@@ -123,6 +123,7 @@
 |P3386|[[模板]二分图匹配](https://www.luogu.org/problemnew/show/P3386)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3386/P3386.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3386/Solution.md)|
 |P3387|[[模板]缩点](https://www.luogu.org/problemnew/show/P3387)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3387/P3387.cc)|-|
 |P3393|[P3393 逃离僵尸岛](https://www.luogu.org/problemnew/show/P3393)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3393/P3393.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3393/Solution.md)|
+|P3800|[Power收集](https://www.luogu.org/problemnew/show/P3800)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3800/P3800.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3800/Solution.md)|
 |P3871|[[TJOI2010]中位数](https://www.luogu.org/problemnew/show/P3871)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3871/P3871.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3871/Solution.md)|
 |P3915|[树的分解](https://www.luogu.org/problemnew/show/P3915)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3915/P3915.cc)|[Reference](https://llc160824117.blog.luogu.org/solution-p3915)|
 |P3919|[[模板]可持久化数组(可持久化线段树/平衡树)](https://www.luogu.org/problemnew/show/P3919)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3919/P3919.c)|[Reference](https://www.luogu.com.cn/blog/juruohyfhaha/p3919-mu-ban-ke-chi-jiu-hua-shuo-zu-chu-bu-tan-jiu-zhu-xi-shu)|
