@@ -113,6 +113,7 @@
 |P3003|[[USACO10DEC]苹果交货Apple Delivery](https://www.luogu.org/problemnew/show/P3003)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3003/P3003.cpp)|-|
 |P3146|[[USACO16OPEN]248 G](https://www.luogu.org/problemnew/show/P3146)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3146/P3146.c)|-|
 |P3177|[[HAOI2015]树上染色](https://www.luogu.org/problemnew/show/P3177)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3177/P3177.cc)|[Reference](https://www.luogu.com.cn/problem/solution/P3177)|
+|P3195|[[HNOI2008]玩具装箱](https://www.luogu.org/problemnew/show/P3195)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3195/P3195.c)|[Reference(B站视频讲解)](https://www.bilibili.com/video/BV1Fh411d7jA)/[Reference](https://www.luogu.com.cn/problem/solution/P3195)|
 |P3366|[[模板]最小生成树](https://www.luogu.org/problemnew/show/P3366)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3366/P3366.cpp)|-|
 |P3368|[[模板]树状数组 2](https://www.luogu.org/problemnew/show/P3368)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3368/P3368.c)|[Reference](https://www.cnblogs.com/dilthey/p/9366491.html)|
 |P3369|[[模板]普通平衡树](https://www.luogu.org/problemnew/show/P3369)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3369/P3369.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3369/Solution.md)|
