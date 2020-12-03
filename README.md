@@ -4,7 +4,7 @@
 
 |序号|原题地址|代码|题解|
 |---|---|---|---|
-|P1018|[](https://www.luogu.org/problemnew/show/P1018)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1018/P1018.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1018/Solution.md)([Reference](https://blog.csdn.net/w55100/article/details/86656590))|
+|P1018|[乘积最大](https://www.luogu.org/problemnew/show/P1018)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1018/P1018.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1018/Solution.md)([Reference](https://blog.csdn.net/w55100/article/details/86656590))|
 |P1027|[Car的旅行路线](https://www.luogu.org/problemnew/show/P1027)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1027/P1027.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1027/Solution.md)|
 |P1040|[加分二叉树](https://www.luogu.org/problemnew/show/P1040)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1040/P1040.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1040/Solution.md)|
 |P1048|[采药](https://www.luogu.org/problemnew/show/P1048)|[C(1D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1048/1D/P1048.c)/[C(2D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1048/2D/P1048.c)|-|
