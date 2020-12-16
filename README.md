@@ -4,6 +4,7 @@
 
 |序号|原题地址|代码|题解|
 |---|---|---|---|
+|P1005|[矩阵取数游戏](https://www.luogu.org/problemnew/show/P1005)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1005/P1005.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1005/Solution.md)|
 |P1018|[乘积最大](https://www.luogu.org/problemnew/show/P1018)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1018/P1018.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1018/Solution.md)([Reference](https://blog.csdn.net/w55100/article/details/86656590))|
 |P1027|[Car的旅行路线](https://www.luogu.org/problemnew/show/P1027)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1027/P1027.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1027/Solution.md)|
 |P1040|[加分二叉树](https://www.luogu.org/problemnew/show/P1040)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1040/P1040.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1040/Solution.md)|
