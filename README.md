@@ -101,6 +101,7 @@
 |P2584[ZJOI2006]|[GameZ游戏排名系统](https://www.luogu.org/problemnew/show/P2584)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2584/P2584.cc)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2584/Solution.md)|
 |P2585|[[ZJOI2006]三色二叉树](https://www.luogu.org/problemnew/show/P2585)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2585/P2585.c)|-|
 |P2639|[[USACO09OCT]Bessie的体重问题Bessie's Weight](https://www.luogu.org/problemnew/show/P2639)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2639/P2639.c)|-|
+|P2647|[最大收益](https://www.luogu.org/problemnew/show/P2647)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2647/P2647.c)|[Reference](https://www.luogu.com.cn/blog/user47497/solution-p2647)|
 |P2679|[宝石串](https://www.luogu.org/problemnew/show/P2679)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2679/P2679.c)|[Reference](https://www.luogu.com.cn/blog/MloVtry/solution-p2697)|
 |P2683|[小岛](https://www.luogu.org/problemnew/show/P2683)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2683/P2683.cpp)|-|
 |P2690|[接苹果](https://www.luogu.org/problemnew/show/P2690)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2690/P2690.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2690/Solution.md)|
