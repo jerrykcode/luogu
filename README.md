@@ -19,6 +19,7 @@
 |P1129|[[ZJOI2007]矩阵游戏](https://www.luogu.org/problemnew/show/P1129)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1129/P1129.cpp)|[Reference](https://www.luogu.org/problemnew/solution/P1129)|
 |P1131|[[ZJOI2007]时态同步](https://www.luogu.org/problemnew/show/P1131)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1131/P1131.cc)|-| |P1164|[小A点菜](https://www.luogu.org/problemnew/show/P1164)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1164/P1164.c)|-|
 |P1168|[中位数](https://www.luogu.org/problemnew/show/P1168)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1168/P1168.cc)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1168/Solution.md)|
+|P1169|[棋盘制作](https://www.luogu.org/problemnew/show/P1169)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1169/P1169.c)|[Reference](https://felis.blog.luogu.org/solution-p1169)|
 |P1186|[玛丽卡](https://www.luogu.org/problemnew/show/P1186)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1186/P1186.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1186/Solution.md)|
 |P1198|[[JSOI2008]最大数](https://www.luogu.org/problemnew/show/P1198)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1198/P1198.c)|-|
 |P1220|[关路灯](https://www.luogu.org/problemnew/show/P1220)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1220/P1220.c)|[Reference](https://www.luogu.com.cn/blog/ButterflyDew/solution-p1220)|
