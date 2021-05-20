@@ -1,37 +1,22 @@
-#include "stdio.h"
-#include "stdlib.h"
-#include "memory.h"
+#include <stdio.h>
+#include <stdlib.h>
 
-#ifndef max
-#define max(a,b) (((a) > (b)) ? (a) : (b))
-#endif
+#define MAXM 100
+#define MAXT 1000
+int dp[MAXM + 1][MAXT + 1]; //2D
+
+int max(int a, int b) { return a > b ? a : b; }
 
 int main() {
-	int t, m;
-	scanf("%d %d", &t, &m);
-	int *time = (int *)malloc((m + 1) * sizeof(int));
-	int *value = (int *)malloc((m + 1) * sizeof(int));
-	for (int i = 1; i < m + 1; i++) {
-		scanf("%d %d", time + i, value + i);
-	}
-	int **dp = (int **)malloc((m + 1) * sizeof(int *));
-	for (int i = 0; i < m + 1; i++) {
-		dp[i] = (int *)malloc((t + 1) * sizeof(int));
-		dp[i][0] = 0;
-	}
-	memset(dp[0], 0, (t + 1) * sizeof(int));
-	for (int i = 1; i < m + 1; i++)
-		for (int j = 1; j <= t; j++) {
-			if (j >= time[i]) {
-				dp[i][j] = max(dp[i - 1][j], dp[i - 1][j - time[i]] + value[i]);
-			}
-			else dp[i][j] = dp[i - 1][j];
-		}
-	free(time);
-	free(value);
-	printf("%d", dp[m][t]);
-	for (int i = 0; i < m + 1; i++)
-		free(dp[i]);
-	free(dp);
-	return 0;
+    int t, m, ti, vi;
+    scanf("%d %d", &t, &m);
+    for (int i = 1; i <= m; i++) {
+        scanf("%d %d", &ti, &vi);
+        for (int j = 1; j < ti; j++)
+            dp[i][j] = dp[i - 1][j];
+        for (int j = ti; j <= t; j++)
+            dp[i][j] = max(dp[i - 1][j], dp[i - 1][j - ti] + vi);
+    }
+    printf("%d\n", dp[m][t]);
+    exit(0);
 }
