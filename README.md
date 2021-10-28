@@ -8,6 +8,7 @@
 |P1018|[乘积最大](https://www.luogu.org/problemnew/show/P1018)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1018/P1018.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1018/Solution.md)([Reference](https://blog.csdn.net/w55100/article/details/86656590))|
 |P1027|[Car的旅行路线](https://www.luogu.org/problemnew/show/P1027)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1027/P1027.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1027/Solution.md)|
 |P1040|[加分二叉树](https://www.luogu.org/problemnew/show/P1040)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1040/P1040.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1040/Solution.md)|
+|P1043|[数字游戏](https://www.luogu.org/problemnew/show/P1043)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1043/P1043.c)|-|
 |P1048|[采药](https://www.luogu.org/problemnew/show/P1048)|[C(1D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1048/1D/P1048.c)/[C(2D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1048/2D/P1048.c)|-|
 |P1049|[装箱问题](https://www.luogu.org/problemnew/show/P1049)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1049/P1049.c)|-|
 |P1060|[开心的金明](https://www.luogu.org/problemnew/show/P1060)|[C(1D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1060/1D/P1060.c)/[C(2D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1060/2D/P1060.c)|-|
@@ -60,7 +61,7 @@
 |P1650|[田忌赛马](https://www.luogu.org/problemnew/show/P1650)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1650/P1650.c)|[Reference](https://www.luogu.com.cn/blog/tby-blog/solution-p1650tby)|
 |P1651|[塔](https://www.luogu.org/problemnew/show/P1651)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1651/P1651.c)|-|
 |P1712|[[NOI2016]区间](https://www.luogu.org/problemnew/show/P1712)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1712/P1712.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1712/Solution.md)/[Reference](https://www.luogu.com.cn/blog/AcFcAcFcA/solution-p1712)|
-|P1717|[~~~fishng~~~](https://www.luogu.org/problemnew/show/P1717)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1717/P1717.c)|-|
+|P1717|[~~~钓鱼fishing~~~](https://www.luogu.org/problemnew/show/P1717)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1717/P1717.c)|-|
 |P1726|[上白泽慧音](https://www.luogu.org/problemnew/show/P1726)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1726/P1726.cpp)|-|
 |P1734|[最大约数和](https://www.luogu.org/problemnew/show/P1734)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1734/P1734.c)|-|
 |P1736|[创意吃鱼法](https://www.luogu.org/problemnew/show/P1736)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1736/P1736.c)|[Reference](https://www.luogu.com.cn/blog/wzh/solution-p1736)|
