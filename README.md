@@ -149,6 +149,7 @@
 |P3946|[ことりのおやつ(弌抵議泣伉)](https://www.luogu.org/problemnew/show/P3946)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3946/P3946.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3946/Solution.md)|
 |P4095|[[HEOI2013]Eden 議仟嘘淫諒籾](https://www.luogu.org/problemnew/show/P4095)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P4095/P4095.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P4095/Solution.md)/[Reference](https://www.luogu.com.cn/problem/solution/P4095)|
 |P4141|[��払岻麗](https://www.luogu.org/problemnew/show/P4141)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P4141/P4141.c)|[Reference](https://www.luogu.com.cn/problemnew/solution/P4141)|
+|P4160|[伏晩酔赤](https://www.luogu.com.cn/problem/P4160)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P4160/P4160.c)|[Reference](https://www.luogu.com.cn/blog/MaxDYF/luogu-p4160)|
 |P4480|[廛廖czx](https://www.luogu.org/problemnew/show/P4480)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P4480/P4480.cpp)|-|
 |P4552|[[Poetize6] IncDec Sequence](https://www.luogu.org/problemnew/show/P4552)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P4552/P4552.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P4552/Solution.md)|
 |P4554|[弌苧議嗄老](https://www.luogu.org/problemnew/show/P4554)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P4554/P4554.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P4554/Solution.md)|
