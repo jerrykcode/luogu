@@ -162,5 +162,6 @@
 |P5018|[对称二叉树](https://www.luogu.org/problemnew/show/P5018)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P5018/P5018.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P5018/Solution.md)|
 |P5144|[蜈蚣](https://www.luogu.com.cn/problem/P5144)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P5144/P5144.c)|-|
 |P5146|[最大差值](https://www.luogu.org/problemnew/show/P5146)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P5146/P5146_0.c)/[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P5146/P5146_1.c)/[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P5146/P5146_2.c))|-|
+|P5788|[[模板]单调栈](https://www.luogu.com.cn/problem/P5788)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P5788/P5788.c)|[Reference](https://www.luogu.com.cn/blog/dgt/solution-p5788)|
 |U138763|[团](https://www.luogu.com.cn/problem/U138763) ([w33z Round 1 水题大赛](https://www.luogu.com.cn/contest/32861)第一题)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/U138763/U138763.cc)|[Reference](https://www.luogu.com.cn/blog/220037/w33z-round-1-ti-xie#)|
 
