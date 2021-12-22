@@ -51,6 +51,7 @@
 |P1509|[找啊找啊找女朋友](https://www.luogu.org/problemnew/show/P1509)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1509/P1509.c)|-|
 |P1529|[回家 Bessie Come Home](https://www.luogu.org/problemnew/show/P1529)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1529/P1529.c)|-|
 |P1533|[可怜的狗狗](https://www.luogu.org/problemnew/show/P1533)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1533/P1533.cc)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1533/Solution.md)|
+|P1536|[村村通](https://www.luogu.com.cn/problem/P1536)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1536/P1536.c)|-|
 |P1550[USACO08OCT]|[打井Watering Hole](https://www.luogu.org/problemnew/show/P1550)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1550/P1550.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1550/Solution.md)|
 |P1558|[色板游戏](https://www.luogu.org/problemnew/show/P1558)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1558/P1558.c)|[Reference](https://63661.blog.luogu.org/solution-p1558)|
 |P1564|[膜拜](https://www.luogu.org/problemnew/show/P1564)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1564/P1564.c)|[Reference](https://www.luogu.com.cn/blog/Feliks-YB/solution-p1564)|
