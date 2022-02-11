@@ -33,6 +33,7 @@
 |P1336|[最佳课题选择](https://www.luogu.org/problemnew/show/P1336)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1336/P1336.c)|-|
 |P1342|[请柬](https://www.luogu.org/problemnew/show/P1342)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1342/P1342.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1342/Solution.md)|
 |P1343|[地震逃生](https://www.luogu.org/problemnew/show/P1343)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1343/P1343.cpp)|-|
+|P1345|[[USACO5.4]奶牛的电信Telecowmunication](https://www.luogu.org/problemnew/show/P1345)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1345/P1345.cc)|[Reference(https://www.luogu.com.cn/blog/interestingLSY/solution-p1345)]|
 |P1353|[[USACO08JAN]Running S](https://www.luogu.org/problemnew/show/P1353)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1353/P1353.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1353/Solution.md)|
 |P1347|[排序](https://www.luogu.org/problemnew/show/P1347)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1347/P1347.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1347/Solution.md)|
 |P1352|[没有上司的舞会](https://www.luogu.org/problemnew/show/P1352)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1352/P1352.cc)|[Reference](https://oi-wiki.org/dp/tree/)|
