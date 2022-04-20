@@ -150,6 +150,7 @@
 |P3800|[Power收集](https://www.luogu.org/problemnew/show/P3800)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3800/P3800.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3800/Solution.md)|
 |P3809|[[模板]后缀排序](https://www.luogu.org/problemnew/show/P3809)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3809/P3809.c)|[Reference](https://www.bilibili.com/video/BV1VE411J7u8)|
 |P3810|[[模板]三维偏序(陌上花开)](https://www.luogu.org/problemnew/show/P3810)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3810/P3810.cc)|[Reference](https://www.luogu.com.cn/blog/handsome-wzb/solution-p3810)|
+|P3817|[小A的糖果](https://www.luogu.com.cn/problem/P3817)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3817/P3817.c)|-|
 |P3871|[[TJOI2010]中位数](https://www.luogu.org/problemnew/show/P3871)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3871/P3871.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3871/Solution.md)|
 |P3915|[树的分解](https://www.luogu.org/problemnew/show/P3915)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3915/P3915.cc)|[Reference](https://llc160824117.blog.luogu.org/solution-p3915)|
 |P3919|[[模板]可持久化数组(可持久化线段树/平衡树)](https://www.luogu.org/problemnew/show/P3919)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3919/P3919.c)|[Reference](https://www.luogu.com.cn/blog/juruohyfhaha/p3919-mu-ban-ke-chi-jiu-hua-shuo-zu-chu-bu-tan-jiu-zhu-xi-shu)|
