@@ -31,6 +31,7 @@
 |P1303|[A\*B Problem](https://www.luogu.org/problemnew/show/P1303)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1303/P1303.cc)|[Reference](https://www.luogu.com.cn/blog/leiyu666/solution-p1303)|
 |P1330|[封锁阳光大学](https://www.luogu.org/problemnew/show/P1330)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1330/C%2B%2B/P1330.cpp)/[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1330/C/P1330.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1330/Solution.md)|
 |P1336|[最佳课题选择](https://www.luogu.org/problemnew/show/P1336)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1336/P1336.c)|-|
+|P1339|[Heat Wave G](https://www.luogu.org/problemnew/show/P1339)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1339/P1339.cc)|Dijkstra模板题|
 |P1342|[请柬](https://www.luogu.org/problemnew/show/P1342)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1342/P1342.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1342/Solution.md)|
 |P1343|[地震逃生](https://www.luogu.org/problemnew/show/P1343)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1343/P1343.cpp)|-|
 |P1345|[[USACO5.4]奶牛的电信Telecowmunication](https://www.luogu.org/problemnew/show/P1345)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1345/P1345.cc)|[Reference(https://www.luogu.com.cn/blog/interestingLSY/solution-p1345)]|
