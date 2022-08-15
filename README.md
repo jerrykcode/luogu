@@ -133,6 +133,7 @@
 |P2915|[[USACO08NOV]Mixed Up Cows G](https://www.luogu.org/problemnew/show/P2915)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2915/P2915.c)|[Reference](https://www.luogu.com.cn/problemnew/solution/P2915)|
 |P2925[USACO08DEC]|[干草出售Hay For Sale](https://www.luogu.org/problemnew/show/P2925)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2925/P2925.c)|-|
 |P2939[USACO09FEB]|[改造路Revamping Trails](https://www.luogu.org/problemnew/show/P2939)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2939/P2939.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2939/Solution.md)|
+|P2966|[[USACO09DEC]Cow Toll Paths G](https://www.luogu.com.cn/problem/P2966)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2966/P2966.cc)|[Reference](https://www.luogu.com.cn/blog/mistalker/solution-p2966)|
 |P3003|[[USACO10DEC]苹果交货Apple Delivery](https://www.luogu.org/problemnew/show/P3003)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3003/P3003.cpp)|-|
 |P3071|[[USACO13JAN]Seating G](https://www.luogu.com.cn/problem/P3071)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3071/P3071.c)|[Reference](https://www.cnblogs.com/Coros-Trusds/p/15859766.html)|
 |P3146|[[USACO16OPEN]248 G](https://www.luogu.org/problemnew/show/P3146)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3146/P3146.c)|-|
