@@ -1,54 +1,53 @@
-#include "stdio.h"
-#include "stdlib.h"
+#include <stdio.h>
+#include <stdlib.h>
 
-#define maxn 200
-#define INF 0x7fffffff
+#define N 101
 
-int dp_max[maxn][maxn];
-int dp_min[maxn][maxn];
-int cost[maxn][maxn];
+int presum[N<<1];
+int dpmin[N<<1][N<<1];
+int dpmax[N<<1][N<<1];
 
-int max(int a, int b) {
-    return a > b ? a : b;
-}
+#define RANGE_VAL(start, end) (start > 0 ? \
+                                 presum[end] - presum[(start) - 1]\
+                                :presum[end])
+#define ARRAY_VAL(idx) RANGE_VAL(idx, idx)
 
-int min(int a, int b) {
-    return a < b ? a : b;
-}
+#define SIGNED_INT32_MAX 0x7fffffff
+
+static int max(int a, int b) { return a > b ? a : b; }
+static int min(int a, int b) { return a < b ? a : b; }
 
 int main() {
     int n;
     scanf("%d", &n);
-    scanf("%d", &cost[0][0]);
-    for (int i = 1; i < n; i++) {
-        scanf("%d", &cost[i][i]);
-        for (int j = 0; j < i; j++) {
-            cost[j][i] = cost[j][i - 1]+ cost[i][i];
-        }
+    for (int i = 0; i < n; i++) {
+        scanf("%d", &presum[i]);
+        if (i) presum[i] += presum[i - 1];
     }
-    for (int i = n; i < (n << 1); i++) {
-        cost[i][i] = cost[i - n][i - n];
-        for (int j = i - n + 1; j < i; j++) {
-            cost[j][i] = cost[j][i - 1] + cost[i][i];
-        }
-    }
-    for (int i = 0; i < (n << 1); i++) {
-        for (int j = i + 1; j < (n << 1) && j < i + n; j++)
-            dp_min[i][j] = INF;
+/*    if (n == 1){
+        printf("0\n0");
+        exit(0);
+    }*/
+    for (int i = n; i < n<<1; i++) {
+        presum[i] = presum[i - 1] + ARRAY_VAL(i - n);
     }
     for (int len = 2; len <= n; len++) {
-        for (int l = 0, r = l + len - 1; r < (n << 1); l++, r++) {
-            for (int k = l; k < r; k++) {
-                dp_max[l][r] = max(dp_max[l][r], dp_max[l][k] + dp_max[k + 1][r] + cost[l][r]);
-                dp_min[l][r] = min(dp_min[l][r], dp_min[l][k] + dp_min[k + 1][r] + cost[l][r]);
+        for (int start = 0, end = len - 1; end < n<<1; start++, end++) {
+            dpmax[start][end] = 0;
+            dpmin[start][end] = SIGNED_INT32_MAX;
+            for (int i = start; i < end; i++) {
+                dpmax[start][end] = max(dpmax[start][end], dpmax[start][i] + dpmax[i + 1][end]);
+                dpmin[start][end] = min(dpmin[start][end], dpmin[start][i] + dpmin[i + 1][end]);
             }
+            dpmax[start][end] += RANGE_VAL(start, end);
+            dpmin[start][end] += RANGE_VAL(start, end);
         }
     }
-    int ans_max = 0, ans_min = INF;
-    for (int l = 0, r = l + n - 1; r < (n << 1); l++, r++) {
-        ans_max = max(ans_max, dp_max[l][r]);
-        ans_min = min(ans_min, dp_min[l][r]);
+    int resmax = 0, resmin = SIGNED_INT32_MAX;
+    for (int start = 0, end = n - 1; end < n<<1; start++, end++) {
+        resmax = max(resmax, dpmax[start][end]);
+        resmin = min(resmin, dpmin[start][end]);
     }
-    printf("%d\n%d", ans_min, ans_max);
-    return 0;
+    printf("%d\n%d", resmin, resmax);
+    exit(0);
 }
