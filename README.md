@@ -114,6 +114,7 @@
 |P2574|[XOR的艺术](https://www.luogu.org/problemnew/show/P2574)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2574/P2574.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2574/Solution.md)|
 |P2584[ZJOI2006]|[GameZ游戏排名系统](https://www.luogu.org/problemnew/show/P2584)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2584/P2584.cc)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2584/Solution.md)|
 |P2585|[[ZJOI2006]三色二叉树](https://www.luogu.org/problemnew/show/P2585)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2585/P2585.c)|-|
+|P2629|[好消息，坏消息](https://www.luogu.com.cn/problem/P2629)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2629/P2629.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2629/Solution.md)|
 |P2639|[[USACO09OCT]Bessie的体重问题Bessie's Weight](https://www.luogu.org/problemnew/show/P2639)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2639/P2639.c)|-|
 |P2647|[最大收益](https://www.luogu.org/problemnew/show/P2647)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2647/P2647.c)|[Reference](https://www.luogu.com.cn/blog/user47497/solution-p2647)|
 |P2679|[宝石串](https://www.luogu.org/problemnew/show/P2679)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2679/P2679.c)|[Reference](https://www.luogu.com.cn/blog/MloVtry/solution-p2697)|
