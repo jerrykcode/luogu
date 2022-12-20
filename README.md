@@ -48,6 +48,7 @@
 |P1440|[求m区间内的最小值](https://www.luogu.com.cn/problem/P1440)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1440/P1440.c)|-|
 |P1453|[城市环路](https://www.luogu.org/problemnew/show/P1453)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1453/P1453.cc)|[Reference](https://www.luogu.com.cn/blog/xcxc82/post-p1453-cheng-shi-huan-lu-ti-xie)|
 |P1462|[通往奥格瑞玛的道路](https://www.luogu.org/problemnew/show/P1462)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1462/P1462.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1462/Solution.md)([Reference](https://www.luogu.org/problemnew/solution/P1462))|
+|P1483|[序列变换](https://www.luogu.com.cn/problem/P1483)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1483/P1483.c)|[Reference](https://www.luogu.com.cn/blog/chchaich/solution-p1483)|
 |P1486|[[NOI2004]郁闷的出纳员](https://www.luogu.org/problemnew/show/P1486)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1486/P1486.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1486/Solution.md)|
 |P1491|[集合位置](https://www.luogu.org/problemnew/show/P1491)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1491/P1491.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1491/Solution.md)|
 |P1507|[NASA的食物计划](https://www.luogu.org/problemnew/show/P1507)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1507/P1507.c)|-|
