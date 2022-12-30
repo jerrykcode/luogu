@@ -65,6 +65,7 @@
 |P1629|[邮递员送信](https://www.luogu.org/problemnew/show/P1629)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1629/P1629.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1629/Solution.md)|
 |P1650|[田忌赛马](https://www.luogu.org/problemnew/show/P1650)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1650/P1650.c)|[Reference](https://www.luogu.com.cn/blog/tby-blog/solution-p1650tby)|
 |P1651|[塔](https://www.luogu.org/problemnew/show/P1651)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1651/P1651.c)|-|
+|P1666|[前缀单词](https://www.luogu.com.cn/problem/P1666)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1666/P1666.c)|[Reference](https://www.luogu.com.cn/blog/171554/solution-p1666)|
 |P1712|[[NOI2016]区间](https://www.luogu.org/problemnew/show/P1712)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1712/P1712.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1712/Solution.md)/[Reference](https://www.luogu.com.cn/blog/AcFcAcFcA/solution-p1712)|
 |P1714|[切蛋糕](https://www.luogu.com.cn/problem/P1714)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1714/P1714.c)|[Reference](https://www.luogu.com.cn/blog/kkksc03/solution-p1714)|
 |P1717|[~~~钓鱼fishing~~~](https://www.luogu.org/problemnew/show/P1717)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1717/P1717.c)|-|
