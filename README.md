@@ -40,6 +40,7 @@
 |P1352|[没有上司的舞会](https://www.luogu.org/problemnew/show/P1352)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1352/P1352.cc)|[Reference](https://oi-wiki.org/dp/tree/)|
 |P1356|[数列的整除性](https://www.luogu.org/problemnew/show/P1356)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1356/P1356.c)|[Reference](https://www.luogu.com.cn/blog/user206/solution-p1356)|
 |P1410|[子序列](https://www.luogu.org/problemnew/show/P1410)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1410/P1410.c)|[Reference](https://www.luogu.com.cn/blog/user17123/solution-p1410)|
+|P1417|[烹调方案](https://www.luogu.com.cn/problem/P1417)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1417/P1417.c)|[Reference](https://www.luogu.com.cn/blog/kkksc03/solution-p1417)|
 |P1428|[小鱼比可爱](https://www.luogu.org/problemnew/show/P1428)|[C(BIT)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1428/BIT/P1428.c)/[C(SBT)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1428/SBT/P1428.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1428/Solution.md)|
 |P1429|[平面最近点对(加强版)](https://www.luogu.org/problemnew/show/P1429)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1429/P1429.cc)|[Reference](https://www.luogu.com.cn/problemnew/solution/P1429)|
 |P1430|[序列取数](https://www.luogu.org/problemnew/show/P1430)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1430/P1430.c)|[Reference](https://www.luogu.com.cn/blog/khassar/solution-p1430)|
