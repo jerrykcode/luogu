@@ -71,6 +71,7 @@
 |P1712|[[NOI2016]区间](https://www.luogu.org/problemnew/show/P1712)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1712/P1712.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1712/Solution.md)/[Reference](https://www.luogu.com.cn/blog/AcFcAcFcA/solution-p1712)|
 |P1714|[切蛋糕](https://www.luogu.com.cn/problem/P1714)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1714/P1714.c)|[Reference](https://www.luogu.com.cn/blog/kkksc03/solution-p1714)|
 |P1717|[~~~钓鱼fishing~~~](https://www.luogu.org/problemnew/show/P1717)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1717/P1717.c)|-|
+|P1723|[高手过愚人节](https://www.luogu.com.cn/problem/P1723)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1723/P1723.c)|[参考-Manacher算法](https://oi-wiki.org/string/manacher/)|
 |P1726|[上白泽慧音](https://www.luogu.org/problemnew/show/P1726)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1726/P1726.cpp)|-|
 |P1734|[最大约数和](https://www.luogu.org/problemnew/show/P1734)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1734/P1734.c)|-|
 |P1736|[创意吃鱼法](https://www.luogu.org/problemnew/show/P1736)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1736/P1736.c)|[Reference](https://www.luogu.com.cn/blog/wzh/solution-p1736)|
