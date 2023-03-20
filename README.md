@@ -161,6 +161,7 @@
 |P3408|[恋爱](https://www.luogu.org/problemnew/show/P3408)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3408/P3408.cc)|-|
 |P3545|[HUR-Warehouse Store](https://www.luogu.com.cn/problem/P3545)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3545/P3545.cc)|[Reference](https://www.luogu.com.cn/blog/233xsbl233/solution-p3545)/[Notice](https://www.luogu.com.cn/discuss/380896)|
 |P3800|[Power收集](https://www.luogu.org/problemnew/show/P3800)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3800/P3800.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3800/Solution.md)|
+|P3805|[[模板]Manacher算法](https://www.luogu.com.cn/problem/P3805)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3805/P3805.c)|Manacher算法模板题|
 |P3809|[[模板]后缀排序](https://www.luogu.org/problemnew/show/P3809)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3809/P3809.c)|[Reference](https://www.bilibili.com/video/BV1VE411J7u8)|
 |P3810|[[模板]三维偏序(陌上花开)](https://www.luogu.org/problemnew/show/P3810)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3810/P3810.cc)|[Reference](https://www.luogu.com.cn/blog/handsome-wzb/solution-p3810)|
 |P3817|[小A的糖果](https://www.luogu.com.cn/problem/P3817)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3817/P3817.c)|-|
