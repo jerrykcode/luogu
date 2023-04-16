@@ -119,6 +119,7 @@
 |P2401|[不等数列](https://www.luogu.org/problemnew/show/P2401)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2401/P2401.c)|[Reference](https://www.luogu.com.cn/blog/ahaha254/solution-p2401)|
 |P2408|[不同子串个数](https://www.luogu.com.cn/problem/P2408)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2408/P2408.c)|[Reference](https://www.bilibili.com/video/BV1VE411J7u8)|
 |P2417|[课程](https://www.luogu.org/problemnew/show/P2417)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2417/P2417.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2417/Solution.md)|
+|P2422|[良好的感觉](https://www.luogu.com.cn/problem/P2422)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2422/P2422.c)|动态规划简单题|
 |P2439|[[SDOI2005]阶梯教室设备利用](https://www.luogu.org/problemnew/show/P2439)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2439/P2439.c)|-|
 |P2574|[XOR的艺术](https://www.luogu.org/problemnew/show/P2574)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2574/P2574.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2574/Solution.md)|
 |P2584[ZJOI2006]|[GameZ游戏排名系统](https://www.luogu.org/problemnew/show/P2584)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2584/P2584.cc)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2584/Solution.md)|
