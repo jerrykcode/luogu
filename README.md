@@ -27,6 +27,7 @@
 |P1198|[[JSOI2008]最大数](https://www.luogu.org/problemnew/show/P1198)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1198/P1198.c)|-|
 |P1220|[关路灯](https://www.luogu.org/problemnew/show/P1220)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1220/P1220.c)|[Reference](https://www.luogu.com.cn/blog/ButterflyDew/solution-p1220)|
 |P1233|[木棍加工](https://www.luogu.org/problemnew/show/P1233)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1233/P1233.c)|[Reference](https://www.luogu.com.cn/blog/Guoyh/solution-p1233)|
+|P1280|[尼克的任务](https://www.luogu.com.cn/problem/P1280)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1280/P1280.cc)|-|
 |P1281|[书的复制](https://www.luogu.org/problemnew/show/P1281)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1281/P1281.c)|[Reference](https://www.luogu.com.cn/blog/cccx2016/solution-p1281)|
 |P1282|[多米诺骨牌](https://www.luogu.org/problemnew/show/P1282)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1282/P1282.c)|-|
 |P1303|[A\*B Problem](https://www.luogu.org/problemnew/show/P1303)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1303/P1303.cc)|[Reference](https://www.luogu.com.cn/blog/leiyu666/solution-p1303)|
