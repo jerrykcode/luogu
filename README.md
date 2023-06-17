@@ -14,6 +14,7 @@
 |P1060|[开心的金明](https://www.luogu.org/problemnew/show/P1060)|[C(1D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1060/1D/P1060.c)/[C(2D)](https://github.com/jerrykcode/luogu/blob/master/Problems/P1060/2D/P1060.c)|-|
 |P1063|[能量项链](https://www.luogu.org/problemnew/show/P1063)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1063/P1063.c)|-|
 |P1077|[[NOIP2012 普及组] 摆花](https://www.luogu.org/problemnew/show/P1077)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1077/P1077.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1077/solution.md)|
+|P1091|[[NOIP2004 提高组] 合唱队形](https://www.luogu.com.cn/problem/P1091)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1091/P1091.c)|-|
 |P1103|[书本整理](https://www.luogu.org/problemnew/show/P1103)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1103/P1103.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P1103/Solution.md))|
 |P1107|[[BJWC2008]雷涛的小猫](https://www.luogu.org/problemnew/show/P1107)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P1107/P1107.c)|-|
 |P1110|[[ZJOI2007]报表统计](https://www.luogu.org/problemnew/show/P1110)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P1110/P1110.cpp)|[Reference](https://www.luogu.org/problemnew/solution/P1110)|
