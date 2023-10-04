@@ -192,6 +192,7 @@
 |P5018|[对称二叉树](https://www.luogu.org/problemnew/show/P5018)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P5018/P5018.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P5018/Solution.md)|
 |P5144|[蜈蚣](https://www.luogu.com.cn/problem/P5144)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P5144/P5144.c)|-|
 |P5146|[最大差值](https://www.luogu.org/problemnew/show/P5146)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P5146/P5146_0.c)/[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P5146/P5146_1.c)/[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P5146/P5146_2.c))|-|
+|P5202|[[USACO19JAN] Redistricting P](https://www.luogu.com.cn/problem/P5202)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P5202/P5202.c)|-|
 |P5788|[[模板]单调栈](https://www.luogu.com.cn/problem/P5788)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P5788/P5788.c)|[Reference](https://www.luogu.com.cn/blog/dgt/solution-p5788)|
 |P5994|[[PA2014]Kuglarz](https://www.luogu.com.cn/problem/P5994)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P5994/P5994.cc)|[Reference](https://www.luogu.com.cn/blog/juruoyqr/solution-p5994)|
 |P6040|[「ACOI2020」课后期末考试滑溜滑溜补习班](https://www.luogu.com.cn/problem/P6040)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P6040/P6040.c)|-|
