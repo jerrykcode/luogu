@@ -114,6 +114,7 @@
 |P2169|[正则表达式](https://www.luogu.org/problemnew/show/P2169)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2169/P2169.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2169/Solution.md)|
 |P2170|[选学霸](https://www.luogu.org/problemnew/show/P2170)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2170/P2170.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2170/Solution.md)|
 |P2176[USACO14FEB]|[路障Roadblock](https://www.luogu.org/problemnew/show/P2176)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2176/P2176.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2176/Solution.md)|
+|P2182|[翻硬币](https://www.luogu.com.cn/problem/P2182)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2182/P2182.c)|[Reference参考](https://www.luogu.com.cn/blog/daniu/solution-p2182#)|
 |P2187|[小Z的笔记](https://www.luogu.org/problemnew/show/P2187)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2187/P2187.c)|-|
 |P2190|[小Z的车厢](https://www.luogu.com.cn/problem/P2190)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2190/P2190.c)|树状数组/线段树模板题|
 |P2306|[被 yyh 虐的 mzc](https://www.luogu.com.cn/problem/P2306)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2306/P2306.c)|[Notice!!!](https://github.com/jerrykcode/luogu/blob/master/Problems/P2306/NOTICE.md)|
