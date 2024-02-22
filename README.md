@@ -198,5 +198,6 @@
 |P5994|[[PA2014]Kuglarz](https://www.luogu.com.cn/problem/P5994)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P5994/P5994.cc)|[Reference](https://www.luogu.com.cn/blog/juruoyqr/solution-p5994)|
 |P6040|[「ACOI2020」课后期末考试滑溜滑溜补习班](https://www.luogu.com.cn/problem/P6040)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P6040/P6040.c)|-|
 |P6855|[「EZEC-4.5」走方格](https://www.luogu.com.cn/problem/P6855)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P6855/P6855.c)|[Reference](https://www.luogu.com.cn/blog/LingWang-Blog/solution-p6855)|
+|P7535|[[COCI2016-2017#4] Kas](https://www.luogu.com.cn/problem/P7535)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P7535/P7535.c)|[Reference](https://www.luogu.com.cn/blog/477757/solution-p7535)|
 |U138763|[团](https://www.luogu.com.cn/problem/U138763) ([w33z Round 1 水题大赛](https://www.luogu.com.cn/contest/32861)第一题)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/U138763/U138763.cc)|[Reference](https://www.luogu.com.cn/blog/220037/w33z-round-1-ti-xie#)|
 
