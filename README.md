@@ -104,6 +104,7 @@
 |P2014|[[CTSC1997]选课](https://www.luogu.org/problemnew/show/P2014)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2014/P2014.cc)|[Reference](https://www.luogu.com.cn/blog/HullEssien/solution-p2014)|
 |P2015|[二叉苹果树](https://www.luogu.org/problemnew/show/P2015)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2015/P2015.cc)/[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2015/P2015.c)|-|
 |P2023|[[AHOI2009]维护序列](https://www.luogu.org/problemnew/show/P2023)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2023/P2023.c)|-|
+|P2034|[选择数字](https://www.luogu.com.cn/problem/P2034)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2034/P2034.c)|单调队列优化DP|
 |P2055|[[ZJOI2009]假期的宿舍](https://www.luogu.org/problemnew/show/P2055)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2055/P2055.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P2055/Solution.md)|
 |P2068|[统计和](https://www.luogu.org/problemnew/show/P2068)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P2068/P2068.c)|-|
 |P2071|[座位安排](https://www.luogu.org/problemnew/show/P2071)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P2071/P2071.cpp)|-|
