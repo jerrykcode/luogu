@@ -168,6 +168,7 @@
 |P3384|[[模板]重链剖分/树链剖分](https://www.luogu.com.cn/problem/P3384)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3384/P3384.cc)|[树链剖分](https://oi-wiki.org/graph/hld/)/[Notice](https://www.luogu.com.cn/discuss/886395)|
 |P3386|[[模板]二分图匹配](https://www.luogu.org/problemnew/show/P3386)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3386/P3386.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3386/Solution.md)|
 |P3387|[[模板]缩点](https://www.luogu.org/problemnew/show/P3387)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3387/P3387.cc)|-|
+|P3391|[【模板】文艺平衡树](https://www.luogu.com.cn/problem/P3391)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3391/P3391.c)|[Reference](https://oi-wiki.org/ds/splay/#%E5%8C%BA%E9%97%B4%E7%BF%BB%E8%BD%AC)|
 |P3393|[P3393 逃离僵尸岛](https://www.luogu.org/problemnew/show/P3393)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3393/P3393.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3393/Solution.md)|
 |P3408|[恋爱](https://www.luogu.org/problemnew/show/P3408)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3408/P3408.cc)|-|
 |P3545|[HUR-Warehouse Store](https://www.luogu.com.cn/problem/P3545)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3545/P3545.cc)|[Reference](https://www.luogu.com.cn/blog/233xsbl233/solution-p3545)/[Notice](https://www.luogu.com.cn/discuss/380896)|
