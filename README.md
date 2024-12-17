@@ -196,6 +196,7 @@
 |P4879|[ycz的妹子](https://www.luogu.org/problemnew/show/P4879)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P4879/P4879.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P4879/Solution.md)|
 |P4933|[大师](https://www.luogu.org/problemnew/show/P4933)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P4933/P4933.cc)|见代码注释|
 |P4943|[密室](https://www.luogu.org/problemnew/show/P4943)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P4943/P4943.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P4943/Solution.md)|
+|P4999|[烦人的数学作业](https://www.luogu.org/problemnew/show/P4999)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P4999/P4999.c)|数位DP|
 |P5018|[对称二叉树](https://www.luogu.org/problemnew/show/P5018)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P5018/P5018.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P5018/Solution.md)|
 |P5144|[蜈蚣](https://www.luogu.com.cn/problem/P5144)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P5144/P5144.c)|-|
 |P5146|[最大差值](https://www.luogu.org/problemnew/show/P5146)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P5146/P5146_0.c)/[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P5146/P5146_1.c)/[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P5146/P5146_2.c))|-|
