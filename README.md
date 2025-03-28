@@ -169,6 +169,7 @@
 |P3373|[[模板]线段树 2](https://www.luogu.org/problemnew/show/P3373)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3373/P3373.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3373/Solution.md)|
 |P3374|[[模板]树状数组 1](https://www.luogu.org/problemnew/show/P3374)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3374/P3374.c)|-|
 |P3376|[[模板]网络最大流](https://www.luogu.org/problemnew/show/P3376)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3376/P3376.cpp)|-|
+|P3377|[[模板]左偏树/可并堆](https://www.luogu.com.cn/problem/P3377)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3377/P3377.c)|[Reference](https://www.luogu.com.cn/article/j1mqfet0)/[OI wiki](https://oi-wiki.org/ds/leftist-tree/)|
 |P3379|[[模板]最近公共祖先（LCA）](https://www.luogu.com.cn/problem/P3379)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3379/P3379.cc)|树链剖分模板|
 |P3384|[[模板]重链剖分/树链剖分](https://www.luogu.com.cn/problem/P3384)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3384/P3384.cc)|[树链剖分](https://oi-wiki.org/graph/hld/)/[Notice](https://www.luogu.com.cn/discuss/886395)|
 |P3386|[[模板]二分图匹配](https://www.luogu.org/problemnew/show/P3386)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3386/P3386.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3386/Solution.md)|
