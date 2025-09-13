@@ -171,6 +171,7 @@
 |P3376|[[模板]网络最大流](https://www.luogu.org/problemnew/show/P3376)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3376/P3376.cpp)|-|
 |P3377|[[模板]左偏树/可并堆](https://www.luogu.com.cn/problem/P3377)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P3377/P3377.c)|[Reference](https://www.luogu.com.cn/article/j1mqfet0)/[OI wiki](https://oi-wiki.org/ds/leftist-tree/)|
 |P3379|[[模板]最近公共祖先（LCA）](https://www.luogu.com.cn/problem/P3379)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3379/P3379.cc)|树链剖分模板|
+|P3381|[[模板]最小费用最大流](https://www.luogu.com.cn/problem/P3381)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3381/P3381.cc)|[OIWIKI](https://oi-wiki.org/graph/flow/min-cost/#primal-dual-%E5%8E%9F%E5%A7%8B%E5%AF%B9%E5%81%B6%E7%AE%97%E6%B3%95)|
 |P3384|[[模板]重链剖分/树链剖分](https://www.luogu.com.cn/problem/P3384)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3384/P3384.cc)|[树链剖分](https://oi-wiki.org/graph/hld/)/[Notice](https://www.luogu.com.cn/discuss/886395)|
 |P3386|[[模板]二分图匹配](https://www.luogu.org/problemnew/show/P3386)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3386/P3386.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P3386/Solution.md)|
 |P3387|[[模板]缩点](https://www.luogu.org/problemnew/show/P3387)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P3387/P3387.cc)|-|
@@ -196,7 +197,7 @@
 |P4552|[[Poetize6] IncDec Sequence](https://www.luogu.org/problemnew/show/P4552)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P4552/P4552.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P4552/Solution.md)|
 |P4554|[小明的游戏](https://www.luogu.org/problemnew/show/P4554)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P4554/P4554.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P4554/Solution.md)|
 |P4568|[P4568 [JLOI2011]飞行路线](https://www.luogu.org/problemnew/show/P4568)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P4568/P4568.cpp)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P4568/Solution.md)|
-|P4722|[P4722【模板】最大流 加强版 / 预流推进](https://www.luogu.com.cn/problem/P4722)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P4722/P4722.cc)|[Reference](https://oi-wiki.org/graph/flow/max-flow/#%E5%AE%9E%E7%8E%B0_3)|
+|P4722|[P4722【模板】最大流 加强版 / 预流推进](https://www.luogu.com.cn/problem/P4722)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P4722/P4722.cc)|[OIWIKI](https://oi-wiki.org/graph/flow/max-flow/#%E5%AE%9E%E7%8E%B0_3)|
 |P4805|[[CCC2016]合并饭团](https://www.luogu.com.cn/problem/P4805)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P4805/P4805.c)|[Reference](https://kai586123.blog.luogu.org/solution-p4805)|
 |P4868|[Preprefix sum](https://www.luogu.org/problemnew/show/P4868)|[C++](https://github.com/jerrykcode/luogu/blob/master/Problems/P4868/P4868.cc)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P4868/Solution.md)|
 |P4879|[ycz的妹子](https://www.luogu.org/problemnew/show/P4879)|[C](https://github.com/jerrykcode/luogu/blob/master/Problems/P4879/P4879.c)|[Solution](https://github.com/jerrykcode/luogu/blob/master/Problems/P4879/Solution.md)|
